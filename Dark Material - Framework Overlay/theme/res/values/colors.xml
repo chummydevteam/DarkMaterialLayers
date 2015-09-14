@@ -79,6 +79,8 @@
 		<color name="user_icon_default_white">#ffffffff</color>
 
 	<!--Misc-->
+		<color name="dslv_icon_dark">#ffffffff</color>
+	    <color name="exposed_powerdialog_icon_tint">#ffffffff</color>
 	    <color name="global_menu_icon">#ffffffff</color>
 		<color name="global_menu_icon_enabled">#ffffffff</color>
 	    <color name="exposed_navigation_bar">#ff000000</color>
@@ -92,4 +94,5 @@
 		<color name="exposed_TextAppearance.StatusBar.EventContent.Emphasis">#ffaeaeae</color>
 		<color name="exposed_TextAppearance.EasyCorrectSuggestion">#ffaeaeae</color>
 		<color name="exposed_Widget.Material.Light.Button_TS">@android:color/white</color>
+
 </resources>
