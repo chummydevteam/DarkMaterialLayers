@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing SlimOTA's Styles-->
+
+<resources>
+    <style name="Theme.Main" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#ff212021</item>
+        <item name="android:colorPrimaryDark">#ff212021</item>
+        <item name="android:colorAccent">#ffffffff</item>
+    </style>
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing SystemUI's Colors-->
+
+<resources>
+	<!--Color of your notification drawer, primary:middle, secondary:top w/avatar, accent: brightness trail)-->	
+		<color name="system_primary_background">#cc000000</color>
+		<color name="system_primary_color">#ff212021</color>
+		<color name="system_primary_color_translucent">#90000000</color>
+		<color name="system_secondary_color">#ff1f1f1f</color>
+		<color name="system_accent_color">#ffe1e1e1</color>
+		
+	<!--Bliss Gerrit ID: I8ccefddf5eb2d38297f385a7ea83752162a7c563-->
+		<!--QS Background-->
+		<color name="qs_background_drawable_color">#cc000000</color>
+		
+	<!--Quick Settings in Notification drawer -->	
+		<color name="qs_detail_empty">#24ffffff</color>
+		<color name="qs_detail_transition">#66ffffff</color>
+		<color name="qs_tile_text">#ffffffff</color>
+	
+	<!--All notification popups listed here-->
+		<color name="notification_legacy_background_color">#e6212021</color>
+		<color name="notification_material_background_color">#e6212021</color>
+		<color name="notification_material_background_dimmed_color">#e6212021</color>
+		<color name="notification_material_background_low_priority_color">#e6212021</color>
+		<color name="notification_material_background_media_default_color">#e6212021</color>
+		<color name="notification_guts_bg_color">#e6212021</color>
+		<color name="notification_guts_title_color">#ffffffff</color>
+		<color name="notification_guts_text_color">#ffffffff</color>
+		<color name="notification_guts_btn_color">#ffffffff</color>
+
+	<!--Miscellaneous ROM based tweaks-->
+		<color name="status_bar_traffic_color">#ffffffff</color>
+		<color name="gesture_overlay_background_fill_color">#80000000</color>
+		<color name="fab_color">#ff212021</color>
+		<color name="floating_action_button_icon_color">#ffffffff</color>
+		<color name="floating_action_button_touch_tint">#d4000000</color>
+		
+	<!--Navigation Bar Shortcuts Settings Colors-->
+		<color name="navring_check_tint">#ffffffff</color>
+		<color name="navring_edit_fill">#ff212021</color>
+		<color name="navring_edit_tint">#ffffffff</color>
+
+	<!--Navigation Bar Shortcuts Colors-->		
+		<color name="search_panel_circle_color">#ff212021</color>
+		<color name="search_panel_ripple_color">#4a000000</color>
+		
+	<!--Screen Pinning Background Dialog-->
+		<color name="screen_pinning_nav_icon_highlight_outer">#80777777</color>
+	    <color name="screen_pinning_primary_text">#ffffffff</color>
+		<color name="screen_pinning_request_bg">#ff212021</color>
+		<color name="screen_pinning_request_window_bg">#b3000000</color>
+
+    <!--Tint of the Visualizer tile-->
+		<color name="visualizer_fill_color">#ffffffff</color>
+
+    <!--Background of the volume panel. See also: volume_dialog_background-->
+		<color name="volume_panel_background_color">#b3000000</color>
+		
+	<!--Battery base color-->
+		<color name="batterymeter_base_color">#ffffffff</color>
+
+    <!--Navigation button ripple color-->
+		<color name="navbutton_ripple_color">#ffffffff</color>
+	
+	<!--Misc-->
+	    <color name="clear_recent_button_color">#ffffffff</color>
+		<color name="clear_recent_button_ripple">#66777777</color>
+	
+		<color name="exposed_bg_dark">#ff000000</color>
+		<color name="exposed_bg_light">#ff000000</color>
+		<color name="exposed_volume_panel">#ff212021</color>
+		<color name="exposed_primary_text_light">#ffffffff</color>
+		<color name="exposed_secondary_text_light">#ffaeaeae</color>
+		<color name="exposed_TextAppearance.Material.Notification.Parenthetical">#ffffffff</color>
+		<color name="exposed_system_panel_text_light">#ffffffff</color>
+		<color name="exposed_TextAppearance_Network">#ffffffff</color>
+		<color name="exposed_more_text">#ffffffff</color>
+		<color name="exposed_toggle">#ffffffff</color>
+		<color name="exposed_segmented_button_text_selector">#ffffffff</color>
+</resources>

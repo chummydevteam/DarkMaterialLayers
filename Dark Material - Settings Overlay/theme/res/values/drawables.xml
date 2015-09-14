@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Settings' Drawables-->
+
+<resources>
+    <item type="drawable" name="expanded_item_bg">@android:color/black</item>
+    <item type="drawable" name="expanded_item_bg_activated">@android:color/black</item>
+</resources>
