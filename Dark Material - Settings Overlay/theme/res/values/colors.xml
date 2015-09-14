@@ -41,7 +41,8 @@
 		<color name="audio_ringer_disabled_tint">#4a777777</color>
 		
 	<!--Misc-->
-	    <color name="dslv_icon_dark">@android:color/white</color>
+	    <color name="dashboard_border_color">@android:color/transparent</color> <!--Tipsy-->
+	    <color name="dslv_icon_dark">#ffffffff</color>
 		<color name="dslv_float_cackground_color">#ff000000</color>
 		<color name="exposed_primary_text_dark">@android:color/white</color>
 		<color name="exposed_secondary_text_dark">#ffaeaeae</color>
@@ -53,4 +54,5 @@
 		<color name="exposed_secondary_text_light">#ffaeaeae</color>
 		<color name="exposed_qs_tile_text">@android:color/white</color>
 		<color name="exposed_data_limit_chart_labelcolor">@android:color/white</color>
+		
 </resources>

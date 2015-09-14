@@ -3,4 +3,8 @@
 
 <resources>
     <dimen name="actionbar_contentInsetStart">16.0dip</dimen>
+	<dimen name="dashboard_radius_bottom_left">0dip</dimen>
+    <dimen name="dashboard_radius_bottom_right">0dip</dimen>
+    <dimen name="dashboard_radius_top_left">0dip</dimen>
+    <dimen name="dashboard_radius_top_right">0dip</dimen>
 </resources>
