@@ -50,7 +50,6 @@
 
 	<!--Adjusting the colors of light and dark styled foreground text-->
 		<color name="bright_foreground_dark">#ffaeaeae</color>
-		<color name="bright_foreground_material_dark">@android:color/transparent</color>
 		
 	<!--Dialog Background Colors-->
 		<color name="background_floating_material_dark">#ff212021</color>
