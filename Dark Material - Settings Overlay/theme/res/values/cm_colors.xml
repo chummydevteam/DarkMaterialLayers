@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Settings' CM Specific Colors-->
+
+<resources>
+	<!--Commit ID: I81254f72cd2d47bc05a7f15c8e3a9fb4c89c8be8-->
+		<!--Layouts overwrite for Settings Background, overriding res/layouts/dashboard_category.xml-->
+			<color name="dashboard_category_background_color">#ff000000</color> <!--CM, Bliss, Euphoria, Candy5, Temasek-->
+		
+		<!--Battery history chart text, overriding res/layouts/battery_history_chart.xml-->
+			<color name="battery_history_chart_textcolor">#ffeeeeee</color> <!--Euphoria-->
+		
+		<!--Data usage chart text, overriding res/layouts/data_usage_chart.xml-->
+			<color name="data_usage_label_color">#ffffffff</color>
+			<color name="data_usage_secondary_label_color">#ffb30000</color>
+			
+		<!--Data usage chart color, overriding res/layouts/data_usage_chart.xml-->
+			<color name="data_usage_fill_color">#ffc3bec3</color>
+			<color name="data_usage_secondary_fill_color">#ffffffff</color>
+
+    <!--Multi-sim Color Picker Text Color-->
+		<color name="msim_color_picker_text_color">#ffffffff</color>
+
+    <!--Multi-sim Edit Name Text Color-->
+		<color name="msim_edit_name_text_color">#ffffffff</color>
+	
+	<!--CM Tweaks Submenu Background Colors-->
+		<color name="screencolor_background">#ff000000</color>
+		<color name="background_color_gray">#ff000000</color>
+		<color name="background_color_white">#ff000000</color>
+</resources>
