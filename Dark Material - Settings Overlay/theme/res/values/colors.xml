@@ -19,7 +19,7 @@
 	
 	<!--Title text color, toggle colors and settings icons-->
 		<color name="theme_accent">@android:color/white</color>
-		<color name="ic_settings_icons_exposed">@android:color/white</color>
+		<color name="ic_settings_icons_exposed">#ffffffff</color>
 		<color name="text_color_black">@android:color/white</color>
 	
     <!--QS Tile Cards inside Select and Order Tiles and Icon Color-->

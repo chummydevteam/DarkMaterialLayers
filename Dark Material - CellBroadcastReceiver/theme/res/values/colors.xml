@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing CellBroadcastReceiver's Colors-->
+
+<resources>
+    <color name="cell_broadcast_color_primary">#ff212021</color>
+    <color name="cell_broadcast_color_primary_dark">#ff212021</color>
+</resources>

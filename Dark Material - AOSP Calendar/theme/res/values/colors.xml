@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Calendar's Colors-->
+
+<resources>
+	<!--Floating action button colors-->
+    <color name="fab_theme_color">#ff212021</color>
+    <color name="fab_theme_color_dark">#ff212021</color>
+    <color name="fab_theme_color_accent">#ff212021</color>
+    <color name="floating_action_button_icon_color">#ffffffff</color>
+</resources>

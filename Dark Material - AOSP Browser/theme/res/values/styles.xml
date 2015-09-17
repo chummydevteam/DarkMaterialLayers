@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Browser's Styles-->
+
+<resources>
+    <style name="BrowserTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorAccent">@*common:color/theme_color_common_color</item>
+    </style>
+    <style name="PreferencesTheme" parent="@android:style/Theme.Material" />
+    <style name="DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
+        <item name="android:popupBackground">@android:color/black</item>
+    </style>
+    <style name="BookmarkTheme" parent="@android:style/Theme.Material" />
+    <style name="Suggestions" parent="@android:style/Widget.Material.AutoCompleteTextView">
+        <item name="android:popupBackground">@android:color/black</item>
+    </style>
+</resources>

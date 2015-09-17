@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- You are editing Contacts' Styles-->
+
+<resources>
+    <style name="ConfirmAddDetailDialogTheme" parent="@android:style/Theme.Material.Dialog.MinWidth">
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+	<style name="ContactEditorAccountsChangedActivityTheme" parent="@android:style/Theme.Material.Dialog.NoActionBar.MinWidth">
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="android:textColorSecondary">#b3ffffff</item>
+        <item name="android:listViewStyle">@style/ListViewStyle</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+    </style>
+	<style name="DetailActivityTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#ff212021</item>
+        <item name="android:colorPrimaryDark">#ff212021</item>
+	    <item name="android:statusBarColor">#ff212021</item>
+	</style>
+    <style name="NonPhoneDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="ContactsActionBarOverflowQP" parent="@android:style/Widget.Material.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_menu_overflow_lt</item>
+    </style>
+    <style name="ContactsActionBarSubTitleText" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="ContactsActionBarTabBarStyle" parent="@android:style/Widget.Material.ActionBar.TabBar">
+        <item name="android:showDividers">none</item>
+    </style>
+    <style name="ContactsActionBarTabTextStyle" parent="@android:style/Widget.Material.ActionBar.TabText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/tab_text_color</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="ContactsActionBarTitleText" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="ContactsActionBarStyle" parent="@android:style/Widget.Material.ActionBar">
+        <item name="android:icon">@android:color/transparent</item>
+        <item name="android:background">#ff212021</item>
+        <item name="android:titleTextStyle">@style/ContactsActionBarTitleText</item>
+        <item name="android:subtitleTextStyle">@style/ContactsActionBarSubTitleText</item>
+        <item name="android:backgroundStacked">#ff212021</item>
+    </style>
+    <style name="ContactsAlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorAccent">@android:color/white</item>
+    </style>
+	<style name="ListViewStyle" parent="@android:style/Widget.Material.ListView">
+        <item name="android:overScrollMode">always</item>
+    </style>
+	<style name="PeopleTheme1" parent="@android:style/Theme.Material" />
+	<style name="SelectableItem" parent="@android:style/Theme.Material">
+        <item name="android:background">?android:selectableItemBackground</item>
+    </style>
+</resources>

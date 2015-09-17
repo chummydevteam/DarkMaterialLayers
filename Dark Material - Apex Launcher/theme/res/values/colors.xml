@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Apex Launcher's Colors-->
+
+<resources>
+    <color name="accent">#ff212021</color>
+    <color name="material_blue_900">#ffffffff</color>
+    <color name="primary">#ff212021</color>
+    <color name="primary_dark">#ff212021</color>
+    <color name="ripple_material_dark">#1a000000</color>
+</resources>

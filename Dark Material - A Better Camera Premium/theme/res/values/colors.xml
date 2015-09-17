@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing A Better Camera's Colors-->
+
+<resources>
+    <color name="progress_start">#ffffffff</color>
+    <color name="progress_end">#ffffffff</color>
+</resources>
