@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="ch.threema.app.DarkMaterial" android:versionCode="1" android:versionName="ichi">
-	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="21" android:maxSdkVersion="22" />
-	<overlay android:targetPackage="ch.threema.app" android:priority="50" />
-	<meta-data android:name="rom" android:value="Nicholas\' Dark Material"/>
-	<meta-data android:name="infoShort" android:value="Threema"/>
-	<meta-data android:name="infoLong" android:value="Welcome to the lollipop, darkened!"/>
-	<meta-data android:name="author" android:value="chummy development team"/>
-</manifest>
