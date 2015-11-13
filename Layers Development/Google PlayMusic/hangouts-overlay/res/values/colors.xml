@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Play Music's Colors-->
+
+<resources>
+    <color name="app_color">#ffef6c00</color>
+    <color name="app_color_accented">#ffef6c00</color>
+    <color name="app_color_transparent">#20f4842d</color>
+
+    <color name="black_transparent_20">#33ffffff</color>
+    <color name="black_transparent_34">#57ffffff</color>
+    <color name="black_transparent_40">#66ffffff</color>
+    <color name="black_transparent_50">#80ffffff</color>
+    <color name="black_transparent_57">#93ffffff</color>
+    <color name="black_transparent_65">#a6ffffff</color>
+    <color name="black_transparent_70">#b3ffffff</color>
+    <color name="black_transparent_87">#deffffff</color>	
+	
+    <color name="material_deep_teal_500">#ffe1e1e1</color> <!--Cast volume dialog accent-->
+	<color name="material_grey_100">@android:color/black</color> <!--Cast volume dialog-->
+	
+    <color name="play_music_primary">#ffef6c00</color>
+    <color name="music_banner_color">#ffef6c00</color> <!--Downloaded Only Banner-->
+	
+	<color name="play_fg_primary">@android:color/white</color>
+	<color name="play_fg_secondary">#ffeeeeee</color>
+	<color name="situation_description_text_color">#ffeeeeee</color>	
+	
+	<color name="text_color">@android:color/white</color>
+	<color name="current_text">@android:color/white</color>
+	<color name="play_white">@android:color/white</color>
+	<color name="play_white_half_transparent">#33ffffff</color>
+	<color name="play_white_disabled">@android:color/white</color>
+	<color name="white">#ff212021</color>	
+	
+	<color name="play_main_background">@android:color/black</color>
+	<color name="app_background">@android:color/black</color>
+	<color name="background_material_light">@android:color/black</color>
+	<color name="background_floating_material_light">@android:color/black</color>
+
+	<color name="tabbed_now_playing_controls_bg_color">@android:color/white</color>
+	<color name="play_card_light_background">#ff212021</color>
+	
+	<!--Now Playing Bar-->
+	<color name="app_background_light">#ff212021</color>
+	<color name="app_background_light_transparent">#e6212021</color>
+	
+	<color name="light_grey">#ff212021</color>
+	
+	<color name="signup_content_background">@android:color/black</color>
+	<color name="nus_background">@android:color/black</color>
+	<color name="leanback_track_row_highlight_color">@android:color/black</color>
+	<color name="leanback_track_row_separator_highlight_color">@android:color/black</color>
+		
+	<color name="lb_browse_header_color">@android:color/white</color>
+	<color name="lb_playback_secondary_progress_color">@android:color/black</color>
+	<color name="lb_playback_background_progress_color">@android:color/black</color>
+
+	<color name="play_onboard_simple_quiz_background">#ff212021</color>
+	<color name="play_onboard_simple_quiz_title_text_color">@android:color/white</color>
+	
+	<color name="nowplaying_art_bg">@android:color/black</color>
+	<color name="nowplaying_widget_track_color">@android:color/white</color>
+	
+	<color name="tutorial_title">@android:color/white</color>
+	<color name="signup_body_text">#ffeeeeee</color>
+	<color name="signup_footer_text">#ff797676</color>	
+    <color name="upsell_background">@android:color/black</color>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="settings_item_title_text_primary">#ffeeeeee</color>
+    <color name="conversation_color_primary">#ff9d9d9d</color>
+    <color name="conversation_color_primary_dark">#ff838383</color>
+    <color name="conversation_list_item_read">#fffafafa</color>
+    <color name="conversation_list_item_unread">#ffdddddd</color>
+    <color name="conversation_list_error">#ffe30000</color>
+    <color name="conversation_list_name">#fffafafa</color>
+    <color name="conversation_list_details">#ffeeeeee</color>
+    <color name="background_material_light">#ff1a1a1a</color>
+    <color name="background_floating_material_light">#ff1a1a1a</color>
+    <color name="widget_background_color">#ff1a1a1a</color>
+    <color name="list_empty_text">#ffeeeeee</color>
+    <color name="people_and_options_header_text">#ffeeeeee</color>
+    <color name="compose_send_text_color">#ffeeeeee</color>
+    <color name="contact_list_alphabet_header">#ffeeeeee</color>
+    <color name="unblock_item_text_color">#ffeeeeee</color>
+    <color name="background_material_dark">#ff1a1a1a</color>
+    <color name="background_floating_material_dark">#ff272727</color>
+    <color name="action_bar_title_text_color">#ffeeeeee</color>
+    <color name="attachment_chooser_vcard_background">#ff1a1a1a</color>
+    <color name="contact_picker_tabstrip_textColor">#ffeeeeee</color>
+    <color name="contact_avatar_default_background">#ff1a1a1a</color>
+    <color name="attachment_chooser_audio_background">#ff1a1a1a</color>
+    <color name="contact_list_text_secondary">#ffeeeeee</color>
+    <color name="primary_text_default_material_light">#ffeeeeee</color>
+    <color name="secondary_text_default_material_light">#b3ffffff</color>
+    <color name="primary_text_default_material_dark">#ffeeeeee</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="primary_text_disabled_material_light">#39ffffff</color>
+    <color name="secondary_text_disabled_material_light">#24ffffff</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="timestamp_text_outgoing">#ff282828</color>
+    <color name="timestamp_text_incoming">#fff5f5f5</color>
+    <color name="compose_contact_faint_text">#ffeeeeee</color>
+    <color name="compose_contact_dark_text">#ffeeeeee</color>
+    <color name="contact_picker_tab_pressed">#ddffffff</color>
+    <color name="contact_picker_tab_normal">#90ffffff</color>
+    <color name="emoji_category_page_id_view_background">#cc1a1a1a</color>
+
+
+
+
+
+
+    <color name="accent">@android:color/white</color>
+    <color name="accent_material_light">@android:color/white</color>
+    <color name="accent_material_dark">@android:color/white</color>
+
+    <color name="material_deep_teal_200">@android:color/white</color>
+    <color name="material_deep_teal_500">@android:color/white</color>
+    <color name="material_blue_grey_800">@android:color/white</color>
+    <color name="material_blue_grey_900">@android:color/white</color>
+
+    <color name="action_bar_background_color">#ff212021</color>
+    <color name="action_bar_background_color_dark">#ff212021</color>
+    <color name="archived_conversation_action_bar_background_color">#ff212021</color>
+    <color name="archived_conversation_action_bar_background_color_dark">#ff212021</color>
+    <color name="compose_notification_bar_background">#ff212021</color>
+
+    <color name="conversation_background">@android:color/black</color>
+    <color name="gallery_image_default_background">@android:color/black</color>
+
+    <color name="contact_list_text_primary">@android:color/white</color>
+    <color name="participant_list_text_primary">@android:color/white</color>
+    <color name="contact_picker_background">@android:color/black</color>
+
+    <color name="group_mms_setting_text_color">@android:color/white</color>
+
+    <color name="compose_message_send_color">#ff777777</color>
+    <color name="fab_color">#ff212021</color>
+    <color name="fab_shadow_color">@android:color/black</color>
+    <color name="message_bubble_color_selected">#d4000000</color>
+    <color name="notification_accent_color">#ffff0000</color>
+    <color name="search_view_accent_color">#b0dddddd</color>
+</resources>

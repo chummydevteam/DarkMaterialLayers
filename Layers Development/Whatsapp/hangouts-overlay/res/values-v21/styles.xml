@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing WhatsApp's Styles-->
+
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+    <item name="android:textColorPrimary">#fffafafa</item>
+    <item name="android:textColorSecondary">#ffeeeeee</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:textColor">#fffafafa</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="android:colorPrimary">#ff212021</item>
+    <item name="android:colorPrimaryDark">#ff212021</item>
+    <item name="android:navigationBarColor">#ff212021</item>
+    <item name="android:backgroundTint">#ff000000</item>
+</style>
+</resources>

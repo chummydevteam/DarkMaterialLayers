@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorBackground">#ff000000</item>
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+    <style name="ContactListItem">
+        <item name="android:background">#ff000000</item>
+    </style>
+    <style name="ContactListItemDetail">
+        <item name="android:background">#ff000000</item>
+    </style>
+    <style name="ContactListItemDrawableIndicator">
+        <item name="android:background">#ff000000</item>
+    </style>
+</resources>

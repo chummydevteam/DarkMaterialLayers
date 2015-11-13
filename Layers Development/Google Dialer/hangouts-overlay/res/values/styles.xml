@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Dialer's Styles-->
+
+<resources>
+    <style name="DialtactsTheme1" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#ff212021</item>
+        <item name="android:colorPrimaryDark">#ff212021</item>
+        <item name="android:statusBarColor">#ff212021</item>
+    </style>
+    <style name="SettingsStyle" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#ff212021</item>
+        <item name="android:colorPrimaryDark">#ff212021</item>
+    </style>
+    <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorBackground">#ff212021</item>
+        <item name="android:colorPrimary">#ff212021</item>
+        <item name="android:colorPrimaryDark">#ff212021</item>
+    </style>
+    <style name="InCallActionBarStyle" parent="@android:style/Widget.Material.ActionBar">
+        <item name="android:background">#ff000000</item>
+    </style>
+    <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffaeaeae</item>
+    </style>
+    <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material" />
+    <style name="Theme.InCallScreen" parent="@android:style/Theme.Material" />
+    <style name="InCallPopupMenuStyle" parent="@android:style/Theme.Material">
+        <item name="android:textColorPrimary">#ffffffff</item>
+    </style>
+</resources>

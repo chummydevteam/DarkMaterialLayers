@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Highlight text colors depending on style chosen-->
+    <color name="highlighted_text_material_light">#66777777</color>
+    <color name="highlighted_text_material_dark">#66777777</color>
+
+    <!--System-wide changes to colors in Theme.Holo Styles-->
+    <color name="holo_blue_dark">#ffaaaaaa</color>
+    <color name="holo_blue_light">#ffaaaaaa</color>
+    <color name="holo_blue_bright">#ffaaaaaa</color>
+    <color name="perms_dangerous_grp_color">#ffaaaaaa</color>
+    <color name="perms_dangerous_perm_color">#ffaaaaaa</color>
+    <color name="highlighted_text_holo_dark">#66aaaaaa</color>
+    <color name="highlighted_text_holo_light">#66aaaaaa</color>
+
+    <!--System-wide changes to colors in Theme.Material Styles-->
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="secondary_text_default_material_dark">#ffaeaeae</color>
+
+    <!--System-wide Accents for toggle switches, button colors, etc.-->
+    <!--Material Dark Accents-->
+    <color name="material_deep_teal_200">#ffe1e1e1</color>
+
+    <!--Material Light Accents-->
+    <color name="material_deep_teal_500">#ff777777</color>
+
+    <!--Backgrounds and Accents-->
+    <color name="material_blue_grey_800">#ff212021</color>
+    <color name="material_blue_grey_900">#ff212021</color>
+    <color name="material_blue_grey_950">#ff212021</color>
+
+    <!--Notification Modifications-->
+    <color name="system_notification_accent_color">#ff777777</color>
+    <color name="notification_icon_bg_color">#ff777777</color>
+    <color name="notification_action_color_filter">@android:color/white</color>
+    <color name="notification_media_primary_color">@android:color/white</color>
+    <color name="notification_media_secondary_color">@android:color/white</color>
+
+    <!--Fragment integrated DatePickers-->
+    <color name="datepicker_default_selected_text_color_holo_light">#ffaaaaaa</color>
+    <color name="datepicker_default_selected_text_color_holo_dark">#ffaaaaaa</color>
+    <color name="datepicker_default_selected_text_color_material_light">#ffaaaaaa</color>
+    <color name="datepicker_default_selected_text_color_material_dark">#ffaaaaaa</color>
+
+    <!--System-wide changes to colors in Theme.Material Styles-->
+    <color name="background_material_dark">@android:color/black</color>
+
+    <!--Adjusting the colors of light and dark styled foreground text-->
+    <color name="bright_foreground_dark">#ffaeaeae</color>
+
+    <!--Dialog Background Colors-->
+    <color name="background_floating_material_dark">#ff212021</color>
+    <color name="background_floating_material_light">#ffeeeeee</color>
+
+    <!--Button Colors-->
+    <color name="button_material_dark">#ff212021</color>
+    <color name="button_material_light">#ffd7d7d7</color>
+
+    <!--Ripple Colors-->
+    <color name="ripple_material_dark">#4a777777</color>
+    <color name="ripple_material_light">#4a777777</color>
+
+    <!--We gotta do what we gotta do-->
+    <color name="primary_dark_material_dark">#ff212021</color>
+
+    <!--Profile Colors-->
+    <color name="user_icon_1">#ffffffff</color>
+    <color name="user_icon_2">#ffffffff</color>
+    <color name="user_icon_3">#ffffffff</color>
+    <color name="user_icon_4">#ffffffff</color>
+    <color name="user_icon_5">#ffffffff</color>
+    <color name="user_icon_6">#ffffffff</color>
+    <color name="user_icon_7">#ffffffff</color>
+    <color name="user_icon_8">#ffffffff</color>
+    <color name="user_icon_default_gray">#ffffffff</color>
+    <color name="user_icon_default_white">#ffffffff</color>
+
+    <!--Misc-->
+    <color name="dslv_icon_dark">#ffffffff</color>
+    <color name="exposed_powerdialog_icon_tint">#ffffffff</color>
+    <color name="global_menu_icon">#ffffffff</color>
+    <color name="global_menu_icon_enabled">#ffffffff</color>
+    <color name="exposed_navigation_bar">#ff000000</color>
+    <color name="exposed_bg_dark">#ff000000</color>
+    <color name="exposed_notification_big_pic_bg">#ff212021</color>
+    <color name="exposed_resolver_list_bg">#cc000000</color>
+    <color name="exposed_primary_text_light">@android:color/white</color>
+    <color name="exposed_secondary_text_light">#ffaeaeae</color>
+    <color name="exposed_notify_action_text">@android:color/white</color>
+    <color name="exposed_TextAppearance.StatusBar.EventContent">@android:color/white</color>
+    <color name="exposed_TextAppearance.StatusBar.EventContent.Emphasis">#ffaeaeae</color>
+    <color name="exposed_TextAppearance.EasyCorrectSuggestion">#ffaeaeae</color>
+    <color name="exposed_Widget.Material.Light.Button_TS">@android:color/white</color>
+
+</resources>

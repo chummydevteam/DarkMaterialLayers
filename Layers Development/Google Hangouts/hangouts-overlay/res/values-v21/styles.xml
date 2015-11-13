@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat" parent="@android:style/Theme.Material">
+        <item name="android:textColorPrimary">#fffafafa</item>
+        <item name="android:textColorSecondary">#fffafafa</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColor">#fffafafa</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:textColorPrimary">#fff5f5f5</item>
+        <item name="android:textColorSecondary">#ffeeeeee</item>
+        <item name="android:windowBackground">@drawable/ab_solid</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColor">#fffafafa</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:editTextColor">#ffdddddd</item>
+    </style>
+    <style name="NotificationPrimaryText">
+        <item name="android:textColor">#fffafafa</item>
+    </style>
+    <style name="NotificationSecondaryText">
+        <item name="android:textColor">#ffeaeaea</item>
+    </style>
+</resources>

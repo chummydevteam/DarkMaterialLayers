@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Search's Colors-->
+
+<resources>
+	<!--Google Now Launcher App Drawer-->
+		<color name="apps_view_scrollbar_thumb_color">#ff212021</color>
+		<color name="apps_view_section_text_color">@android:color/white</color>
+		<color name="container_fastscroll_thumb_inactive_color">#ff212021</color>
+		<color name="container_fastscroll_thumb_active_color">#ff212021</color>
+		<color name="launcher_accent_color">@android:color/white</color>
+		<color name="quantum_panel_bg_color">#80000000</color>
+		<color name="quantum_panel_bg_color_dark">#ff212021</color>
+		<color name="quantum_panel_text_color">@android:color/white</color>
+		<color name="quantum_panel_text_shadow_color">#ff777777</color>
+		<color name="widgets_cell_color">@android:color/black</color>
+		
+	<!--Google App Text Colors-->
+		<color name="manage_accounts_text_color">#ff777777</color>
+		<color name="search_plate_text_color">#ffa2a2a2</color> <!--Includes Now Commands and Keyboard Search-->
+		<color name="secondary_text_normal">#ff777777</color>
+		<color name="suggest_text_normal">@android:color/white</color>
+		<color name="suggest_text_disabled">#80777777</color>
+		<color name="suggest_text_inverse">#ff777777</color>
+		<color name="selected_text_corpus_bar">#ff9d9d9d</color>
+		<color name="qp_text_b1">#ff9d9d9d</color>
+		<color name="qp_text_b2">@android:color/white</color>
+		<color name="qp_text_b3">#ff777777</color>
+		<color name="qp_text_w1">@android:color/white</color>
+		<color name="qp_drawer_text">@android:color/white</color>
+		<color name="qp_drawer_text_disabled">#ff777777</color>
+		<color name="qp_drawer_icon_disabled">#16777777</color>
+
+	<!--Google App Background Colors and App Specific Tweaks-->
+		<!--Action Card Text Colors-->
+			<color name="action_card_separator_grey">@android:color/white</color>
+			<color name="action_card_medium_grey">@android:color/white</color>
+			<color name="action_card_dark_grey">#ffeeeeee</color> <!--Includes error card's titles-->
+			<color name="action_card_light_blue">@android:color/white</color>
+		
+		<!--Voice Training Text Colors-->
+		    <color name="e300_main_text">@android:color/white</color>
+			<color name="e300_secondary_text">#ffaeaeae</color>
+			<color name="e300_hint_text">#43ffffff</color>
+			<color name="e300_inverse_text">@android:color/white</color>
+			<color name="e300_primary_action_text">#ff4285f4</color>
+			<color name="e300_button_background">#0fffffff</color>
+			<color name="e300_primary_color_dark">#ff4285f4</color>
+			<color name="e300_primary_color">#ff4285f4</color>
+			<color name="e300_disabled_color">#61ffffff</color>
+	
+		<color name="activity_background">@android:color/black</color>
+		<color name="audio_progress_bar_color">#ff1f1f1f</color>
+		
+		<color name="card_bg">#ff212021</color>
+		<color name="card_bg_training">#ff212021</color>
+		<color name="card_background">#ff212021</color>
+		
+		<color name="configuration_list_background">@android:color/black</color>
+		<color name="done_text_color_normal">@android:color/white</color>
+		<color name="done_text_color_disabled">#ff777777</color>
+		<color name="edit_event_text_highlight">#ff1f1f1f</color>
+		<color name="ic_orb_listening">#ff1f1f1f</color>
+		<color name="ic_orb_tts">#ff212021</color>
+		<color name="lighthouse_app_choice_lowlight">#1affffff</color>
+		<color name="mini_card_text">#57ffffff</color>
+		<color name="mini_card_reminders_text">#80ffffff</color>
+		<color name="mini_card_reminder">#ff777777</color>
+		<color name="now_space_background">@android:color/black</color>
+		<color name="nowspace_header_bg_color">@android:color/black</color>
+		<color name="outline_color">@android:color/black</color>
+		<color name="qp_blue">#ff4285f4</color>
+		<color name="qp_blue_dark">#ff4285f4</color>
+		<color name="qp_status_none">#ff1f1f1f</color>
+		<color name="qp_card_separator">@android:color/black</color>
+		<color name="qp_drawer_background">@android:color/black</color>
+		<color name="qp_drawer_icon">@android:color/white</color>
+		<color name="qp_drawer_selected">#ff212021</color>
+		<color name="recurrence_picker_background">@android:color/black</color>
+		<color name="recurrence_bubble_text_normal">#ffeeeeee</color>
+		<color name="recurrence_edit_event_text">@android:color/white</color>
+		<color name="recurrence_edit_event_text_hint">@android:color/white</color>
+		<color name="recurrence_edit_event_text_highlight">#6633b5e5</color>
+		<color name="recurrence_edit_event_text_link">#ff0000ee</color>
+		<color name="recurrence_edit_event_button_background_stroke">#33ffffff</color>
+		<color name="recurrence_pressed">#330066ff</color>
+		<color name="search_plate_suggestion_divider_background">@android:color/black</color>
+		<color name="setup_wizard_color_accent_light">#ff777777</color>
+		<color name="spinner_pressed_state_color">@android:color/black</color>
+		<color name="suggestion_divider_background">@android:color/black</color>
+		<color name="vs_level_guide">@android:color/black</color>
+		<color name="white">@android:color/black</color>
+		<color name="widget_card_background">@android:color/black</color>
+		<color name="widget_text_panel">@android:color/black</color>
+</resources>

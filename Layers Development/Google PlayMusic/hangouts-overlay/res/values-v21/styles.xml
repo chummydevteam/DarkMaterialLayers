@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Play Music's Styles-->
+
+<resources>
+    <style name="MusicSettingsActivityTheme" parent="@android:style/Theme.Material" />
+</resources>

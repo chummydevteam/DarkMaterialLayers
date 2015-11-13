@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+      <style name="Theme.App" parent="@style/Theme.AppCompat.Light.DarkActionBar" >
+              <item name="android:windowBackground">@color/background_material_light</item>
+			    <item name="android:colorPrimary">@color/primary</item>
+                <item name="android:colorPrimaryDark">@color/primary_dark</item>
+			  </style>
+	<style name="AttachPickerLabel">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+	<style name="Base.Theme.AppCompat.Light.DarkActionBar" parent="@style/Base.Theme.AppCompat.Light" />
+    <style name="Base.Theme.AppCompat.Light.Dialog" parent="@android:style/Theme.Material.Dialog" />
+	
+    <style name="CardTitle" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@android:color/white</item>
+         <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+	</style>
+    <style name="SettingsCategoryFooter" parent="@style/Text.Description">
+        <item name="android:textColor">#ffcfcfcf</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#212121</item>
+      
+    </style>
+	<style name="Base.Theme.AppCompat.Light" parent="@style/Base.V7.Theme.AppCompat.Light" />
+	
+	<style name="Base.V7.Theme.AppCompat.Light" parent="@style/Platform.AppCompat.Light" />
+    <style name="Text" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#ff333333</item>
+        <item name="android:shadowColor">@android:color/white</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.0</item>
+        <item name="android:lineSpacingMultiplier">1.25</item>
+    </style>
+    <style name="Text.Description" parent="@style/Text">
+        <item name="android:textSize">16.0sp</item>
+     
+        <item name="android:textColor">@android:color/white</item>
+         <item name="android:layout_height">wrap_content</item>
+        <item name="android:shadowColor">@android:color/white</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">0.0</item>
+        <item name="android:lineSpacingMultiplier">1.25</item>
+    </style>
+	<style name="Theme.ActionBar.SubtitleTextStyle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle">
+        <item name="android:textSize">13.0dip</item>
+        <item name="android:textColor">#eeffffff</item>
+    </style>
+	<style name="Theme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+	<style name="Theme.AppCompat.Light.DarkActionBar" parent="@style/Base.Theme.AppCompat.Light.DarkActionBar" />
+   
+	
+      
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SettingsStyle" parent="@android:style/Theme.Material" />
+    <style name="AccountsSwitcher">
+        <item name="android:textColorPrimary">#fffafafa</item>
+        <item name="android:textColorSecondary">#fffafafa</item>
+        <item name="android:textColor">#fffafafa</item>
+    </style>
+    <style name="AccountsSwitcher.AccountDisplayNameStyle" parent="@style/AccountsSwitcher">
+        <item name="android:textColorPrimary">#fffafafa</item>
+        <item name="android:textColorSecondary">#fffafafa</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold|italic</item>
+        <item name="android:textColor">#fffafafa</item>
+    </style>
+    <style name="horizontalDividerStyle">
+        <item name="android:background">#00000000</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.0dip</item>
+    </style>
+    <style name="peoplelistv1HorizontalDividerStyle">
+        <item name="android:background">#00000000</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.0dip</item>
+    </style>
+    <style name="verticalDividerStyle">
+        <item name="android:background">#00000000</item>
+        <item name="android:layout_width">1.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginTop">12.0dip</item>
+        <item name="android:layout_marginBottom">12.0dip</item>
+    </style>
+    <style name="inviteVerticalDividerStyle">
+        <item name="android:background">#00000000</item>
+        <item name="android:layout_width">1.0dip</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="Platform.AppCompat" parent="@android:style/Theme.Material">
+        <item name="android:textColorPrimary">#fffafafa</item>
+        <item name="android:textColorSecondary">#fffafafa</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColor">#fffafafa</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material.Light">
+        <item name="android:textColorPrimary">#fffafafa</item>
+        <item name="android:textColorSecondary">#fffafafa</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColor">#fffafafa</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="TextAppearance.Medium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColorPrimary">#fffafafa</item>
+        <item name="android:textColorSecondary">#fffafafa</item>
+        <item name="android:textColor">#fffafafa</item>
+    </style>
+    <style name="TextAppearance.Small" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColorPrimary">#fffafafa</item>
+        <item name="android:textColorSecondary">#fffafafa</item>
+        <item name="android:textColor">#fffafafa</item>
+    </style>
+    <style name="Themeable.Hangouts" parent="@android:style/Theme.Holo.Dialog">
+        <item name="android:textColorPrimary">#fffafafa</item>
+        <item name="android:textColorSecondary">#fffafafa</item>
+        <item name="android:textColor">#fffafafa</item>
+    </style>
+</resources>

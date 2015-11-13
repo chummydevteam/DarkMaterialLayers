@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing WhatsApp's Attributes-->
+
+<resources>
+	<attr name="windowActionModeOverlay" format="boolean" />
+	<attr name="actionBarStyle" format="reference" />
+	<attr name="actionModeBackground" format="reference" />
+	<attr name="toolbarStyle" format="reference" />
+	<attr name="colorPrimary" format="color" />
+	<attr name="colorPrimaryDark" format="color" />
+	<attr name="colorAccent" format="color" />
+	
+	<attr name="titleTextStyle" format="reference" />
+	<attr name="subtitleTextStyle" format="reference" />
+	<attr name="elevation" format="dimension" />
+	
+	<attr name="titleTextAppearance" format="reference" />
+	<attr name="subtitleTextAppearance" format="reference" />
+</resources>

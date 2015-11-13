@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="android:textColorPrimaryDisableOnly">#e1ffffff</item>
+        <item name="android:textColorSecondary">#e1ffffff</item>
+        <item name="android:textColorPrimaryInverse">#e1ffffff</item>
+        <item name="android:textColorSecondaryInverse">#ffffffff</item>
+        <item name="android:textColorPrimaryNoDisable">#ffffffff</item>
+        <item name="android:textColorPrimaryInverseNoDisable">#ffffffff</item>
+        <item name="android:textColorSecondaryInverseNoDisable">#ffffffff</item>
+        <item name="android:textColorHintInverse">#e1ffffff</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textColorHint">#e1ffffff</item>
+        <item name="android:textColorPrimaryInverseDisableOnly">#ffffffff</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:backgroundTint">#ff000000</item>
+        <item name="android:backgroundTintMode">src_in</item>
+    </style>
+    <style name="Platform.AppCompat.Light.Dialog" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Keep's Colors-->
+
+<resources>
+    <color name="accent_color">#ff212021</color>
+	<color name="action_bar_text_color">@android:color/white</color>
+
+    <color name="action_bar_background_color">#ff212021</color>
+    <color name="active_action_bar_background_color">#ff212021</color>
+    <color name="browse_secondary_status_bar_color">#ff212021</color>
+
+    <color name="sliding_drawer_background_color">@android:color/black</color>
+    <color name="drawer_selected_color">#80ffffff</color>
+    <color name="drawer_divider_color">#ff777777</color>
+	<color name="drawer_header_color">@android:color/white</color>
+    <color name="sliding_drawer_text_color">@android:color/white</color>
+	
+    <color name="default_background_color">@android:color/black</color>
+	<color name="widget_message_text_color">@android:color/black</color>
+	<color name="image_placeholder_background">@android:color/black</color>
+	
+    <color name="material_deep_teal_500">@android:color/black</color>	
+	
+	<color name="primary_color">#ff212021</color>
+    <color name="primary_material_dark">@android:color/white</color>
+    <color name="primary_material_light">#ff212021</color>
+    <color name="primary_dark_material_dark">#ff212021</color>
+    <color name="primary_dark_material_light">#ff212021</color>
+    <color name="primary_color_dark">#ff212021</color>
+
+	<color name="primary_text_color">#ff4c4c4c</color>
+    <color name="default_account_details_color">@android:color/white</color>
+    <color name="manage_accounts_text_color">@android:color/white</color>
+    <color name="add_accounts_text_color">@android:color/white</color>
+    <color name="account_text_color">@android:color/white</color>
+</resources>

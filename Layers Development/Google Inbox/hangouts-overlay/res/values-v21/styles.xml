@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Inbox's Styles-->
+
+<resources>
+    <style name="AccountsSwitcher.AccountDisplayNameStyle" parent="@style/AccountsSwitcher">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+    <style name="bt_BigTopAppPreferencesTheme" parent="@android:style/Theme.Material" />
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material.Light">
+		<item name="android:textColorPrimary">#ff777777</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

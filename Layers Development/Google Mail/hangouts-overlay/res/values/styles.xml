@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Gmail's Styles-->
+
+<resources>
+    <style name="AccountsSwitcher" />
+    <style name="AccountsSwitcher.AccountDisplayNameStyle" parent="@style/AccountsSwitcher">
+		<item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+    <style name="NotificationPrimaryText">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="NotificationSecondaryText">
+        <item name="android:textColor">#ffaeaeae</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+		<item name="android:colorBackground">@android:color/black</item>
+		<item name="android:windowBackground">@android:color/black</item>
+	</style>
+</resources>

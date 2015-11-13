@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Inbox's Colors-->
+
+<resources>
+	<!--Main Inbox Background Colors-->
+		<color name="bt_megalist_background">#ff141314</color>
+		<color name="bt_megalist_item_background">@android:color/black</color>
+		<color name="bt_megalist_item_background_selected">#4a777777</color>
+		<color name="bt_empty_list_view_background_color_default">#ff141314</color>
+		
+	<!--Action Bar Colors and Status Bar Colors-->
+		<color name="bt_done_green">#ff0f9d58</color>
+		<color name="bt_container_blue">#ff4285f4</color>
+		<color name="bt_snooze_yellow">#ffeca403</color>
+		<color name="bt_status_bar_done">#ff0f9d58</color>
+		<color name="bt_status_bar_inbox">#ff4285f4</color>
+		<color name="bt_status_bar_snoozed">#ffeca403</color>
+		<color name="bt_action_bar_background_done">#ff0f9d58</color>
+		<color name="bt_action_bar_background_inbox">#ff4285f4</color>
+		<color name="bt_action_bar_background_upcoming">#ffeca403</color>
+		<color name="bt_action_bar_background_grey">#ff212021</color>
+		<color name="bt_action_bar_background_white">#ff6e6e6e</color>
+		<color name="bt_action_bar_bottom_line">#ff777777</color>
+		<color name="bt_status_bar_brick">#ff141b61</color>
+		<color name="bt_status_bar_default">#ff212021</color>
+		<color name="bt_status_bar_white">@android:color/black</color>
+	
+	<!--Notification Colors-->
+		<color name="primary_text">#ffffff</color>
+		
+    <color name="white">@android:color/white</color>
+    <color name="background_material_light">@android:color/black</color>
+    <color name="background_floating_material_dark">#ff424242</color>
+    <color name="background_floating_material_light">@android:color/black</color>
+	
+    <color name="chip_background">#ff777777</color>
+    <color name="bt_chip_background">#ff777777</color>
+    <color name="bt_light_grey">#ffc8c8c8</color>
+	
+	<color name="bt_dark_text">#ff777777</color>
+    <color name="bt_faint_text_transparent">#bfffffff</color>
+    <color name="bt_highlight_color">#66777777</color>
+    <color name="bt_stroke_grey">@android:color/black</color>
+	<color name="bt_faint_text">#ff777777</color>
+    <color name="bt_gray">#ff212021</color>
+</resources>

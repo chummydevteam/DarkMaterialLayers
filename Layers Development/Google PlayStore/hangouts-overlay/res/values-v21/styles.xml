@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Base.InstrumentManager.Light.Dialog" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:textColorPrimary">#ffeeeeee</item>
+        <item name="android:textColorSecondary">#ffeeeeee</item>
+    </style>
+    <style name="RedeemCodeEditText" parent="@android:style/Widget.EditText">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ffeeeeee</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.EditText" parent="@android:style/Widget.EditText">
+        <item name="android:textAppearance">?android:textAppearanceMediumInverse</item>
+        <item name="android:textColor">#ffeeeeee</item>
+        <item name="android:backgroundTint">#ffeeeeee</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:navigationBarColor">#ff0e0e0e</item>
+    </style>
+</resources>

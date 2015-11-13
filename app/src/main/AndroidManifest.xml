@@ -21,7 +21,7 @@
         <meta-data android:name="Layers_Developer" android:value="Aditya Gupta,Nicholas Chum"/>
         <meta-data android:name="Layers_Colors" android:value=""/>
         <meta-data android:name="Layers_Description" android:value="Original Dark MaterialUI,Now for Layers :)"/>
-        <meta-data android:name="Layers_OverlayNames" android:value="Framework,SystemUI,Settings, "/>
+        <meta-data android:name="Layers_OverlayNames" android:value="AOSP Calculator,AOSP Dialer,AOSP Keyboard,Framework,GOOgle Dialer,Google Hangouts,Google Inbox,Google Keep,Google Keyboard,Google Messenger,Google PlayMusic,Google PlayStore,Google Plus,Google Velvet,Settings,SystemUI,Whatsapp, "/>
         <meta-data android:name="Layers_WhatsNew" android:value="v1.0 \n- Initial Test Release"/>
 
     </application>

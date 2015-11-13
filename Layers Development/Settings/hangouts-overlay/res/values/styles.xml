@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Settings' Styles-->
+
+<resources>
+	<!--ActionBar Theme, add background attr here to add a drawable bg to use as header-->
+
+	<!--Style of main settings, do not replace with Theme.Settings as this prevents Settings FC-->
+	<!--About phone and Status windows, do not remove SubSettingsDialogWhenLarge as parent has been changed-->
+		<style name="Theme.SubSettingsDialogWhenLarge" parent="@android:style/Theme.Material" />
+
+	<!--Wifi dialog and popup texts-->
+	    <style name="wifi_item_label">
+			<item name="android:textColor">@android:color/white</item>
+		</style>
+		<style name="wifi_item_content">
+			<item name="android:textColor">@android:color/white</item>
+		</style>
+		<style name="wifi_item_edit_content">
+			<item name="android:textColor">@android:color/white</item>
+		</style>
+	
+	<!--Bluetooth dialog and popup texts-->
+		<style name="bt_item">
+			<item name="android:textColor">@android:color/white</item>
+		</style>
+		<style name="bt_item_label">
+			<item name="android:textColor">@android:color/white</item>
+		</style>
+		<style name="bt_item_edit_content">
+			<item name="android:textColor">@android:color/white</item>
+		</style>
+		
+	<!--Setup Wizards-->
+		<style name="SetupWizardTheme.Light" parent="android:style/Theme.Material.NoActionBar" />
+
+
+
+
+	<style name="SetupWizardWifiTheme.Light" parent="@android:style/Theme.Material.NoActionBar" />
+	<style name="Theme.Light.WifiDialog" parent="@android:style/Theme.Material.Dialog.Alert" />
+	<style name="Theme.SettingsBase" parent="@android:style/Theme.Material">
+		<item name="android:colorForeground">#fffafafa</item>
+		<item name="android:windowBackground">@android:color/black</item>
+	</style>
+	<style name="Theme.ActionBar" parent="@android:style/Widget.Material.ActionBar.Solid">
+		<item name="android:background">#ff263238</item>
+	</style>
+	<style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
+		<item name="android:colorForeground">#fffafafa</item>
+	</style>
+	<style name="Theme.AlertDialog" parent="@android:style/Theme.Material.Dialog.Alert" />
+</resources>

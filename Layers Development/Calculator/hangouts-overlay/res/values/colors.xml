@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Calculator's Colors-->
+
+<resources>
+	<!--Display Background-->
+		<color name="display_background_color">#ff212021</color>
+		<color name="display_formula_text_color">#ff9f9d9d</color>
+		<color name="display_result_text_color">#ff9f9d9d</color>
+
+    <color name="calculator_primary_color">@android:color/black</color>
+    <color name="background_material_light">@android:color/black</color>
+    <color name="background_floating_material_light">@android:color/black</color>
+    <color name="accent_material_light">@android:color/black</color>
+	<color name="primary_dark_material_light">@android:color/black</color>
+
+	<color name="primary_text_default_material_light">@android:color/white</color>
+    <color name="secondary_text_default_material_light">#b3ffffff</color>
+    <color name="primary_text_disabled_material_light">#4dffffff</color>
+    <color name="secondary_text_disabled_material_light">#36ffffff</color>	
+	
+	<!--Background Colors for Buttons Area-->
+		<color name="calculator_accent_color">@android:color/black</color>
+		<color name="pad_advanced_background_color">#ff777777</color>
+		<color name="pad_numeric_background_color">@android:color/black</color>
+		<color name="pad_operator_background_color">#ff454545</color>
+	
+	<!--Text Colors-->
+		<color name="pad_button_text_color">@android:color/white</color>
+		<color name="pad_button_ripple_color">#4affffff</color>
+		<color name="pad_button_advanced_ripple_color">#4affffff</color>
+</resources>

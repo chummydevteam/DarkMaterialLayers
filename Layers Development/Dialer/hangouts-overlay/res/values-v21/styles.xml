@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DialtactsTheme1" parent="@android:style/Theme.Material">
+    <item name="android:colorForeground">#ff000000</item>
+    <item name="android:colorBackground">#ff000000</item>
+    <item name="android:textColorPrimary">#ffffffff</item>
+    <item name="android:textColorSecondary">#ffffffff</item>
+    <item name="android:colorPrimary">#ff212021</item>
+    <item name="android:statusBarColor">#ff212021</item>
+</style></resources>

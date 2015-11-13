@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DeviceDefault.Resolver" parent="@android:style/Theme.Material.Panel">
+        <item name="android:backgroundTint">#ff212021</item>
+        <item name="windowBackground">@color/exposed_resolver_list_bg</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowIsTranslucent">true</item>
+        <item name="windowContentOverlay">@null</item>
+        <item name="backgroundDimEnabled">true</item>
+        <item name="windowTranslucentStatus">false</item>
+        <item name="windowTranslucentNavigation">false</item>
+        <item name="windowDrawsSystemBarBackgrounds">false</item>
+    </style>
+</resources>

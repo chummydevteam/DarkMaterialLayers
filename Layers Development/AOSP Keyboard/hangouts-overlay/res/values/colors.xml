@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing LatinIME's Colors-->
+
+<resources>
+	<!--Material Light Keyboard-->
+		<color name="emoji_tab_page_indicator_background_lxx_light">@android:color/white</color>
+		<color name="key_text_color_lxx_light">@android:color/black</color>
+		<color name="key_functional_text_color_lxx_light">#cc000000</color>
+		<color name="key_background_lxx_light">@android:color/white</color>
+		<color name="key_background_pressed_lxx_light">#ffeeeeee</color>
+		
+		<color name="suggested_word_color_lxx_light">@android:color/black</color>
+		<color name="suggested_word_background_selected_lxx_light">#d4ffffff</color>
+		
+		<color name="gesture_floating_preview_color_lxx_light">#d4ffffff</color>
+		<color name="key_text_inactive_color_lxx_light">#b3000000</color>
+		<color name="key_hint_letter_color_lxx_light">#b3000000</color>
+		<color name="typed_word_color_lxx_light">@android:color/black</color>
+		
+		<color name="language_on_spacebar_text_color_lxx_light">@android:color/black</color>
+		<color name="auto_correct_color_lxx_light">@android:color/black</color>
+		
+		<color name="gesture_trail_color_lxx_light">#ff777777</color>
+		<color name="highlight_color_lxx_light">#ff777777</color>
+		<color name="sliding_key_input_preview_color_lxx_light">#ff777777</color>
+		
+	<!--Material Dark Keyboard-->
+		<color name="emoji_tab_page_indicator_background_lxx_dark">#ff212021</color>
+		<color name="key_text_color_lxx_dark">@android:color/white</color>
+		<color name="key_functional_text_color_lxx_dark">#ccffffff</color>
+		<color name="key_background_lxx_dark">@android:color/black</color>
+		<color name="key_background_pressed_lxx_dark">#40212021</color>
+		
+		<color name="suggested_word_color_lxx_dark">@android:color/white</color>
+		<color name="suggested_word_background_selected_lxx_dark">#d4000000</color>
+		
+		<color name="gesture_floating_preview_color_lxx_dark">#d4000000</color>
+		<color name="key_text_inactive_color_lxx_dark">#b3ffffff</color>
+		<color name="key_hint_letter_color_lxx_dark">#b3ffffff</color>
+		<color name="typed_word_color_lxx_dark">@android:color/white</color>
+		
+		<color name="language_on_spacebar_text_color_lxx_dark">@android:color/white</color>
+		<color name="auto_correct_color_lxx_dark">@android:color/white</color>
+		
+		<color name="gesture_trail_color_lxx_dark">#99ffffff</color>
+		<color name="highlight_color_lxx_dark">#99ffffff</color>
+		<color name="sliding_key_input_preview_color_lxx_dark">#99ffffff</color>
+	
+	<!--Lollipop Keyboard Specifics-->
+		<color name="suggested_word_color_klp">#ff777777</color>
+		<color name="theme_accent">@android:color/white</color>
+	
+	<!--KitKat Keyboard Specifics-->
+		<color name="key_hint_letter_color_holo">#80ffffff</color>
+</resources>

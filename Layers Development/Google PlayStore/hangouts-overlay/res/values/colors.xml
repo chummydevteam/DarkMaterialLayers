@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="play_onboard__interstitial_overlay_background">#d81a1a1a</color>
+    <color name="bright_foreground_disabled_material_dark">#801a1a1a</color>
+    <color name="primary_material_light">#ff1a1a1a</color>
+    <color name="primary_dark_material_dark">#ff1a1a1a</color>
+    <color name="primary_dark_material_light">#ff1a1a1a</color>
+    <color name="detailed_permissions_footer_bg">#ff1a1a1a</color>
+    <color name="detailed_permissions_footer_text">#deeeeeee</color>
+    <color name="details_review_source_text">#ffeeeeee</color>
+
+    <color name="play_apps_primary">#ff689f38</color>
+    <color name="play_apps_primary_disabled">#80689f38</color>
+
+    <color name="play_multi_primary">#ff000000</color>
+    <color name="play_multi_primary_disabled">#80000000</color>
+    <color name="play_multi_recents">#ff000000</color>
+    <color name="play_multi_secondary">#ff000000</color>
+
+    <color name="status_bar_apps">@android:color/black</color>
+    <color name="status_bar_apps_ent">@android:color/black</color>
+    <color name="status_bar_books">@android:color/black</color>
+    <color name="status_bar_movies">@android:color/black</color>
+    <color name="status_bar_multi">@android:color/black</color>
+    <color name="status_bar_music">@android:color/black</color>
+    <color name="status_bar_newsstand">@android:color/black</color>
+    <color name="status_bar_overlay">@android:color/transparent </color>
+
+    <color name="play_action_button_pressed_grey">#ffff0000</color>
+    <color name="account_selector_background">@android:color/black</color>
+    <color name="action_bar_selected_bg">@android:color/black</color>
+
+    <!--Selected in All section-->
+    <color name="play_dismissed_overlay">#d0000000</color>
+    <color name="play_highlight_blue_fill">#80777777</color>
+    <color name="play_highlight_blue_outline">@android:color/white</color>
+
+    <color name="primary_text_default_material_light">@android:color/white</color>
+    <color name="secondary_text_default_material_light">#b3ffffff</color>
+    <color name="primary_text_default_material_dark">@android:color/white</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="primary_text_disabled_material_light">#39000000</color>
+    <color name="secondary_text_disabled_material_light">#36ffffff</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+
+    <color name="highlighted_text_material_light">#ffb6b1b6</color>
+    <color name="material_deep_teal_200">#ffb6b1b6</color>
+    <color name="material_deep_teal_500">#ffb6b1b6</color>
+    <color name="material_blue_grey_800">#ff212021</color>
+    <color name="material_blue_grey_900">#ff212021</color>
+    <color name="material_blue_grey_950">#ff212021</color>
+
+    <color name="play_fg_primary">@android:color/white</color>
+    <color name="play_fg_secondary_half_transparent">#70616161</color>
+    <color name="play_search_plate_hint_text_color">@android:color/white</color>
+    <color name="play_search_plate_navigation_button_color">@android:color/white</color>
+    <color name="primary_material_dark">@android:color/white</color>
+    <color name="play_card_light_background">#ff212021</color>
+
+    <color name="play_content_filter_toolbar_background">@android:color/black</color>
+    <color name="play_content_filter_top_info_title">@android:color/white</color>
+
+    <color name="play_banner_light_fg">@android:color/black</color>
+    <color name="play_rated_overlay">@android:color/black</color>
+    <color name="setup_wizard_navbar_text_dark">@android:color/black</color>
+    <color name="action_bar_menu_color">@android:color/black</color>
+
+    <color name="white">@android:color/black</color>
+    <color name="play_white">@android:color/black</color>
+    <color name="play_white_half_transparent">@android:color/white</color>
+    <color name="play_white_disabled">@android:color/white</color>
+    <color name="rating_background">#ff777777</color>
+
+    <color name="play_main_background">@android:color/black</color>
+    <color name="background_material_light">@android:color/black</color>
+    <color name="background_floating_material_light">@android:color/black</color>
+
+    <color name="whatsnew_apps">#ff212021</color>
+    <color name="whatsnew_books">#ff212021</color>
+    <color name="whatsnew_music">#ff212021</color>
+    <color name="whatsnew_movies">#ff212021</color>
+    <color name="whatsnew_newsstand">#ff212021</color>
+
+    <color name="sliding_tab_text_color_active">@android:color/white</color>
+
+    <color name="play_fg_tabs">#ff212021</color>
+
+    <color name="bind__active_gray">@android:color/white</color>
+    <color name="play_fg_secondary">@android:color/white</color>
+    <color name="play_header_list_tab_pressed_bg_color">#40ffffff</color>
+
+    <color name="your_review_label_bg_color">@android:color/white</color>
+</resources>

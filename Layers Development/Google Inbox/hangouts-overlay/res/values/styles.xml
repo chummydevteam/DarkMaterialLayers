@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Inbox's Styles-->
+
+<resources>
+    <style name="AccountsSwitcher" />
+    <style name="AccountsSwitcher.AccountDisplayNameStyle" parent="@style/AccountsSwitcher">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+    <style name="bt_NotificationPrimaryText">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+</resources>
