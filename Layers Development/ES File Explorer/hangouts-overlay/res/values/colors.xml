@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing ES File Explorer's Colors-->
+
+<resources>
+	<!--These colors are mainly used for ES File Explorer 4.0-->
+		<!--Drawer Text-->
+		<color name="access_text">#ffffffff</color>
+		<color name="access_toolbar_text">#ffffffff</color>
+		<color name="access_tab_text">#ffffffff</color>
+		<color name="access_content_name_text">#ffffffff</color>
+		<color name="access_content_address_text">#ffffffff</color>
+
+		<color name="main_content_text">#ffffffff</color>
+
+		<color name="float_action_button">#ff212021</color>
+		<color name="toolbar_edit_more_list_text">@android:color/white</color>
+
+		<color name="window_content_text">@android:color/white</color>
+		<color name="multi_window_tab_text_normal">#ff777777</color>
+		<color name="multi_window_tab_text_selected">@android:color/white</color>
+		<color name="multi_window_tab_indicator_normal">#ffdedfe0</color>
+		<color name="multi_window_tab_indicator_selected">@android:color/white</color>
+			
+		<color name="multi_window_bg">@android:color/black</color>
+		<color name="multi_window_tab_bg">@android:color/black</color>
+		<color name="window_addressbar_text">@android:color/white</color>
+</resources>
