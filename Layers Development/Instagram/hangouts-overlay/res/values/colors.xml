@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Instagram's Colors-->
+
+<resources>
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+	
+    <color name="gray">@android:color/black</color>
+    <color name="grey_5">#ff9d9d9d</color>
+    <color name="grey_7">@android:color/black</color>
+    <color name="grey_8">@android:color/black</color>
+	
+    <color name="accent_blue_6">@android:color/black</color>
+    <color name="blue_3">#ffeeeeee</color>
+    <color name="blue_4">#ffeeeeee</color>
+    <color name="blue_5">#ff212021</color>
+    <color name="blue_6">#ff777777</color>
+	
+    <color name="dark_action_bar_top_highlight">@android:color/black</color>
+    <color name="status_bar_blue_background">#ff212021</color>
+    <color name="result_bar_active_color">#ff212021</color>
+    <color name="camera_shutter_outer_ring">#ff777777</color>
+    <color name="camera_shutter_outer_ring_pressed">#ff212021</color>
+</resources>
