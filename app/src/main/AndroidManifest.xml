@@ -22,7 +22,7 @@
         <meta-data android:name="Layers_Colors" android:value=""/>
         <meta-data android:name="Layers_Description" android:value="Original Dark MaterialUI,Now for Layers :)"/>
         <meta-data android:name="Layers_OverlayNames" android:value="AOSP Calculator,AOSP Dialer,AOSP Keyboard,Es File Explorer,Facebook,Facebook Messenger,Framework,Google Chrome,Google Dialer,Google Hangouts,Google Inbox,Google Keep,Google Keyboard,Google Messenger,Google PlayMusic,Google PlayStore,Google Plus,Google Velvet,Greenify,Instagram,Kernel Auditor,MusixMatch,Settings,Snapchat,Softkeys,Spotify,Super User,SystemUI,Titanium Backup,Twitter,Viber,Whatsapp, "/>
-        <meta-data android:name="Layers_WhatsNew" android:value="v1.2 \n- Initial Test Release\n- Added Chrome,Greenify,Kernel Auditor,Musixmatch,Snapchat,Spotify,SuperSU,Titanium backup,Twitter,Viber Overlays\n- Seperated Softkeys from SystemUI"/>
+        <meta-data android:name="Layers_WhatsNew" android:value="v2 \n- Initial Test Release\n- Added Chrome,Greenify,Kernel Auditor,Musixmatch,Snapchat,Spotify,SuperSU,Titanium backup,Twitter,Viber Overlays\n- Seperated Softkeys from SystemUI"/>
 
     </application>
 
