@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Facebook's Colors-->
+
+<resources>
+    <color name="fbui_facebook_blue">#ff212021</color>
+    <color name="fbui_facebook_blue_f0">#f0212021</color>
+	<color name="fbui_bluegrey_10">@android:color/black</color> <!--News Feed Background-->
+
+    <color name="divebar_background">@android:color/black</color> <!--Contacts "windowBackground" when opening-->
+    <color name="divebar_section_background">@android:color/black</color> <!--Section header for contacts-->
+    <color name="divebar_contact_background">@android:color/black</color> <!--Contacts background (Top right corner)-->
+
+    <color name="fb_blue">#ff212021</color>
+    <color name="splash_screen_gradient_start">@android:color/black</color>
+    <color name="splash_screen_gradient_end">@android:color/black</color>
+</resources>
