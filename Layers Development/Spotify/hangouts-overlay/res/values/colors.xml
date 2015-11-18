@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Spotify's Colors-->
+
+<resources>
+	<!--Action Bar Color-->
+		<color name="cat_grayscale_15">#ff212021</color>
+	
+	<!--App Background-->
+		<color name="cat_grayscale_8">#ff000000</color>
+		<color name="cat_grayscale_8_90">#ff000000</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Spotify's Colors-->
+
+<resources>
+    <color name="notification_bg_color">#e6212021</color>
+</resources>
