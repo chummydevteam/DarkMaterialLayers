@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Facebook Messenger's Colors-->
+
+<resources>
+	<color name="orca_image_placeholder_color">@android:color/black</color>
+	<color name="orca_reg_profile_pic_placeholder_color">@android:color/black</color>
+	<color name="orca_pinned_groups_nux_background">@android:color/black</color>
+	<color name="feed_feedback_background_pressed_start_color">@android:color/black</color>
+	
+	<color name="messenger_blue">#ff212021</color>
+	<color name="orca_neue_primary">#ff212021</color>
+	<color name="orca_white_pressed">#cc212021</color>
+	<color name="voip_blue">#ff212021</color>
+	<color name="rtc_minimize_pressed">#cc212021</color>
+	<color name="msgr_default_bubble_color_me">#ff212021</color>
+	<color name="video_trimming_film_strip_selected_bar_color">#ff212021</color>
+	<color name="orca_reg_light_blue_button_text_color_enabled">#ff212021</color>
+	<color name="orca_neue_thread_list_group_header_promo_background">#ff212021</color>
+	<color name="orca_neue_thread_list_survey_header_background">#ff212021</color>
+	<color name="payment_action_blue">#ff212021</color>
+	<color name="orca_neue_qp_banner_background">#ff212021</color>
+	<color name="QPInterstitialPrimaryButtonTextColor">#ff212021</color>
+</resources>
