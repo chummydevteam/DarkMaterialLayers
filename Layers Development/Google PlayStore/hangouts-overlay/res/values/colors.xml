@@ -8,12 +8,11 @@
     <color name="detailed_permissions_footer_bg">#ff1a1a1a</color>
     <color name="detailed_permissions_footer_text">#deeeeeee</color>
     <color name="details_review_source_text">#ffeeeeee</color>
-
+    <color name="play_apps_secondary">#ff689f38</color>
     <color name="play_apps_primary">#ff689f38</color>
     <color name="play_apps_primary_disabled">#80689f38</color>
-
-    <color name="play_multi_primary">#ff000000</color>
-    <color name="play_multi_primary_disabled">#80000000</color>
+    <color name="play_multi_primary">#ff777777</color>
+    <color name="play_multi_primary_disabled">#80777777</color>
     <color name="play_multi_recents">#ff000000</color>
     <color name="play_multi_secondary">#ff000000</color>
 
