@@ -4,7 +4,7 @@
 <resources>
 	<!--Color of your notification drawer, primary:middle, secondary:top w/avatar, accent: brightness trail)-->	
 		<color name="system_primary_color">#cc000000</color>
-		<color name="system_secondary_color">#ff1f1f1f</color>
+		<color name="system_secondary_color">#cf000000</color>
 		<color name="system_accent_color">#ffe1e1e1</color>
 		
 	<!--Bliss Gerrit ID: I8ccefddf5eb2d38297f385a7ea83752162a7c563-->
