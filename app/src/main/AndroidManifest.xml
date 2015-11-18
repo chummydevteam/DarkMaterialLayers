@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.chummy.darkmaterial_layers"
-    android:versionCode="2"
-    android:versionName="1.1"
+    android:versionCode="3"
+    android:versionName="1.2"
     android:sharedUserId="android.uid.DarkMaterial"
     android:process="com.android.Layers">
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -21,8 +21,8 @@
         <meta-data android:name="Layers_Developer" android:value="Aditya Gupta,Nicholas Chum"/>
         <meta-data android:name="Layers_Colors" android:value=""/>
         <meta-data android:name="Layers_Description" android:value="Original Dark MaterialUI,Now for Layers :)"/>
-        <meta-data android:name="Layers_OverlayNames" android:value="AOSP Calculator,AOSP Dialer,AOSP Keyboard,Framework,Google Dialer,Google Hangouts,Google Inbox,Google Keep,Google Keyboard,Google Messenger,Google PlayMusic,Google PlayStore,Google Plus,Google Velvet,Settings,SystemUI,Whatsapp, "/>
-        <meta-data android:name="Layers_WhatsNew" android:value="v1.1 \n- Initial Test Release\n- Bug Fixes"/>
+        <meta-data android:name="Layers_OverlayNames" android:value="AOSP Calculator,AOSP Dialer,AOSP Keyboard,Facebook,Facebook Messenger,Framework,Google Dialer,Google Hangouts,Google Inbox,Google Keep,Google Keyboard,Google Messenger,Google PlayMusic,Google PlayStore,Google Plus,Google Velvet,Instagram,Settings,Softkeys,SystemUI,Whatsapp, "/>
+        <meta-data android:name="Layers_WhatsNew" android:value="v1.2 \n- Initial Test Release\n- Added Facebook,Facebook Messenger,Instagram Overlays\n- Seperated Softkeys from SystemUI"/>
 
     </application>
 
