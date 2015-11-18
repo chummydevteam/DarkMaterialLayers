@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- You are editing Kernel Adiutor's Colors-->
+
+<resources>
+    <color name="cardview_dark_background">#ff141314</color>	
+    <color name="background_material_dark">#ff000000</color>
+    <color name="background_material_light">#ff000000</color>
+	
+    <color name="navigationdrawer_background_dark">@android:color/black</color>
+    <color name="card_background_dark">#ff141314</color>
+</resources>
