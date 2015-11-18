@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Greenify's Colors-->
+
+<resources>
+    <color name="green">#ff212021</color>
+	<color name="darker_green">#ff212021</color>
+    <color name="light_green">#ff777777</color>
+	
+    <color name="ripple_material_dark">#4a777777</color>
+    <color name="ripple_material_light">#4a777777</color>
+</resources>
