@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Snapchat's Colors-->
+
+<resources>
+    <color name="bright_yellow">@android:color/black</color>
+    <color name="green">@android:color/black</color>
+</resources>
