@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Twitter's Colors-->
+
+<resources>
+    <color name="notification_media_tint">#ffffff</color>
+    <color name="notification_title_text">#ffffff</color>
+</resources>

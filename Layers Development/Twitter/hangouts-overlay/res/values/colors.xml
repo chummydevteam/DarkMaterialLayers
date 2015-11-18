@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Twitter's Colors-->
+
+<resources>
+    <color name="twitter_blue">#ff212021</color>
+    <color name="dark_blue">#ff212021</color>
+	<color name="deep_blue">#ff777777</color>
+    <color name="faded_blue">@android:color/black</color>
+    <color name="light_blue">#ff212021</color>
+	<color name="pressed">#4a777777</color>
+</resources>
