@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Play Music's Dimensions-->
+
+<resources>
+    <dimen name="splash_screen_music_bottom">16.0dip</dimen>
+    <dimen name="splash_screen_play_bottom">48.0dip</dimen>
+</resources>
