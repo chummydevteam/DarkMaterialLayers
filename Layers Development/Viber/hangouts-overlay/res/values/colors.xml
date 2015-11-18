@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- You are editing Viber's Colors-->
+
+<resources>
+    <color name="abs__background_holo_dark">@android:color/black</color>
+    <color name="abs__background_holo_light">@android:color/black</color>
+    <color name="vpi__background_holo_dark">@android:color/black</color>
+    <color name="vpi__background_holo_light">@android:color/black</color>
+	
+    <color name="default_circle_indicator_fill_color">@android:color/white</color>
+    <color name="default_title_indicator_selected_color">@android:color/white</color>
+    <color name="z_viber_bundle_thumb_bg_selected">@android:color/white</color>
+	
+    <color name="actionbar_bg_split">#ff212021</color>
+    <color name="conversation_bg">@android:color/black</color>
+    <color name="name_color">#ff774f99</color>
+    <color name="negative">@android:color/white</color>
+    <color name="popup_text_color">#ff777777</color>
+    <color name="purple_btn">#ff212021</color>
+    <color name="three_way_targets_purple">#ff212021</color>
+    <color name="z_viber_shop_tab_btn_dark">@android:color/black</color>
+    <color name="z_viber_white">@android:color/black</color>
+
+    <color name="main_text">#ff777777</color>
+    <color name="main_text_40">#66777777</color>
+    <color name="pressed_color">#4a777777</color>
+    <color name="pressed_color_30">#4c777777</color>
+	
+    <color name="activation_text">#ff212021</color>
+    <color name="options">#ff212021</color>
+    <color name="pressed_options">#ff5e5e5e</color>
+	
+    <color name="dark_background">@android:color/black</color>
+    <color name="dark_background_95">@android:color/black</color>
+    <color name="main_background">@android:color/black</color>
+    <color name="main_background_40">#66000000</color>
+    <color name="main_background_60">#99000000</color>
+    <color name="selected">#ff212021</color>
+</resources>
