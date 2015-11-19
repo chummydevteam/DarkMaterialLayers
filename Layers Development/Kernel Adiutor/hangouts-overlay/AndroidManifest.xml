@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.grarak.kernelauditor.darkmaterial"
+    package="com.grarak.kerneladiutor.darkmaterial"
     android:versionCode="1"
     android:versionName="1.0" >
 <!--
@@ -7,7 +7,7 @@ Targeting the right packageName of the 'target.apk' here!
 We can find the real packageName in the AndroidManifest.xml of original target.apk!
 So the matching resources id can be set in accordance.
 -->
-<overlay android:targetPackage="com.grarak.kernelauditor" android:priority="1"/>
+<overlay android:targetPackage="com.grarak.kerneladiutor" android:priority="1"/>
 
     <meta-data android:name="rom" android:value="Frank 10.5" />
     <meta-data android:name="infoShort" android:value="Hangouts theme" />
