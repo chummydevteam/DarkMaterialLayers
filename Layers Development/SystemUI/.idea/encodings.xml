@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_hotspot_disable.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_hotspot_enable.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_invert_colors_disable.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_invert_colors_enable.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_landscape_from_auto_rotate.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_landscape_to_auto_rotate.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_portrait_from_auto_rotate.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_portrait_to_auto_rotate.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_signal_airplane_disable.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_signal_airplane_enable.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_signal_flashlight_disable.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_signal_flashlight_enable.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_signal_location_disable.xml" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable/ic_signal_location_enable.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable-xhdpi/ic_sysbar_search.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable-xhdpi/ic_sysbar_search_land.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable-xxhdpi/ic_sysbar_menu_land.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hangouts-overlay/res/drawable-xxhdpi/ic_sysbar_recent_land.png" charset="UTF-8" />
   </component>
 </project>

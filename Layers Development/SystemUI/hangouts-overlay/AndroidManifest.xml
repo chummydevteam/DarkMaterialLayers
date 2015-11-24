@@ -7,7 +7,7 @@ Targeting the right packageName of the 'target.apk' here!
 We can find the real packageName in the AndroidManifest.xml of original target.apk!
 So the matching resources id can be set in accordance.
 -->
-<overlay android:targetPackage="com.android.systemui" android:priority="4"/>
+<overlay android:targetPackage="com.android.systemui" android:priority="1"/>
 
     <meta-data android:name="rom" android:value="Frank 10.5" />
     <meta-data android:name="infoShort" android:value="Hangouts theme" />

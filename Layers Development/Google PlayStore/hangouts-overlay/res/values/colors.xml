@@ -15,7 +15,6 @@
     <color name="play_multi_primary_disabled">#80777777</color>
     <color name="play_multi_recents">#ff000000</color>
     <color name="play_multi_secondary">#ff000000</color>
-
     <color name="status_bar_apps">@android:color/black</color>
     <color name="status_bar_apps_ent">@android:color/black</color>
     <color name="status_bar_books">@android:color/black</color>
@@ -24,11 +23,13 @@
     <color name="status_bar_music">@android:color/black</color>
     <color name="status_bar_newsstand">@android:color/black</color>
     <color name="status_bar_overlay">@android:color/transparent </color>
-
+    <color name="highlight_banner_overlay_title_shadow">#61000000</color>
     <color name="play_action_button_pressed_grey">#ffff0000</color>
     <color name="account_selector_background">@android:color/black</color>
     <color name="action_bar_selected_bg">@android:color/black</color>
 
+    <color name="play_ripple_dark">#20ffffff</color>
+    <color name="play_ripple_light">#20000000</color>
     <!--Selected in All section-->
     <color name="play_dismissed_overlay">#d0000000</color>
     <color name="play_highlight_blue_fill">#80777777</color>
@@ -42,6 +43,7 @@
     <color name="secondary_text_disabled_material_light">#36ffffff</color>
     <color name="primary_text_disabled_material_dark">#4dffffff</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="survey_prompt_title_fg">@android:color/white</color>
 
     <color name="highlighted_text_material_light">#ffb6b1b6</color>
     <color name="material_deep_teal_200">#ffb6b1b6</color>
@@ -49,7 +51,6 @@
     <color name="material_blue_grey_800">#ff212021</color>
     <color name="material_blue_grey_900">#ff212021</color>
     <color name="material_blue_grey_950">#ff212021</color>
-
     <color name="play_fg_primary">@android:color/white</color>
     <color name="play_fg_secondary_half_transparent">#70616161</color>
     <color name="play_search_plate_hint_text_color">@android:color/white</color>
@@ -70,7 +71,6 @@
     <color name="play_white_half_transparent">@android:color/white</color>
     <color name="play_white_disabled">@android:color/white</color>
     <color name="rating_background">#ff777777</color>
-
     <color name="play_main_background">@android:color/black</color>
     <color name="background_material_light">@android:color/black</color>
     <color name="background_floating_material_light">@android:color/black</color>

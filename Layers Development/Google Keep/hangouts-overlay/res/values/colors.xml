@@ -2,7 +2,7 @@
 <!--You are editing Keep's Colors-->
 
 <resources>
-    <color name="accent_color">#ff212021</color>
+    <color name="accent_color">@android:color/white</color>
 	<color name="action_bar_text_color">@android:color/white</color>
 
     <color name="action_bar_background_color">#ff212021</color>
@@ -14,7 +14,10 @@
     <color name="drawer_divider_color">#ff777777</color>
 	<color name="drawer_header_color">@android:color/white</color>
     <color name="sliding_drawer_text_color">@android:color/white</color>
-	
+    <color name="ink_menu_bg">#ff212021</color>
+    <color name="ink_sheet_bg">@android:color/black</color>
+    <color name="note_default_color">#ff212021</color>
+    <color name="sliding_drawer_landing_page_background_color">@android:color/black</color>
     <color name="default_background_color">@android:color/black</color>
 	<color name="widget_message_text_color">@android:color/black</color>
 	<color name="image_placeholder_background">@android:color/black</color>
@@ -27,8 +30,8 @@
     <color name="primary_dark_material_dark">#ff212021</color>
     <color name="primary_dark_material_light">#ff212021</color>
     <color name="primary_color_dark">#ff212021</color>
-
-	<color name="primary_text_color">#ff4c4c4c</color>
+    <color name="widget_background_color">@android:color/black</color>
+	<color name="primary_text_color">#ff666666</color>
     <color name="default_account_details_color">@android:color/white</color>
     <color name="manage_accounts_text_color">@android:color/white</color>
     <color name="add_accounts_text_color">@android:color/white</color>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="details_button_small_height">24.0dip</dimen>
+    <dimen name="gift_email_margin_trimming">-4.0dip</dimen>
+    <dimen name="highlight_banner_vpadding">16.0dip</dimen>
+    <dimen name="play_action_button_corner">2.0dip</dimen>
+    <dimen name="play_card_action_size">14.0sp</dimen>
+    <dimen name="play_cluster_header_more_bottom_padding">6.0dip</dimen>
+    <dimen name="play_cluster_header_more_size">12.0sp</dimen>
+    <dimen name="play_cluster_header_more_top_padding">5.0dip</dimen>
+    <dimen name="play_cluster_header_more_xpadding">8.0dip</dimen>
+    <dimen name="play_cluster_header_subtitle_size">16.0sp</dimen>
+    <dimen name="play_cluster_header_title_size">18.0sp</dimen>
+    <dimen name="play_description_size">14.0sp</dimen>
+    <dimen name="play_drawer_item_left_padding">16.0dip</dimen>
+    <dimen name="play_drawer_item_primary_min_height">48.0dip</dimen>
+    <dimen name="play_drawer_item_right_padding">16.0dip</dimen>
+    <dimen name="play_drawer_primary_size">14.0sp</dimen>
+    <dimen name="play_edu_body_size">16.0sp</dimen>
+    <dimen name="play_edu_main_content_padding">16.0dip</dimen>
+    <dimen name="play_edu_title_size">20.0sp</dimen>
+    <dimen name="play_follow_cluster_text_padding">16.0dip</dimen>
+    <dimen name="play_follow_cluster_title_top_margin">4.0dip</dimen>
+    <dimen name="play_highlight_outline_thickness">1.0dip</dimen>
+    <dimen name="play_medium_size">12.0sp</dimen>
+    <dimen name="play_onboard__onboard_v2_tutorial_page_side_margin">24.0dip</dimen>
+    <dimen name="play_onboard__onboard_v2_tutorial_page_title_extra_line_spacing">8.0dip</dimen>
+    <dimen name="play_onboard__onboard_v2_tutorial_page_title_text_size">24.0sp</dimen>
+    <dimen name="play_person_follow_cluster_header_title_size">21.0sp</dimen>
+    <dimen name="play_price_small_size">14.0sp</dimen>
+    <dimen name="play_profile_button_height">36.0dip</dimen>
+    <dimen name="play_purchase_title_size">21.0sp</dimen>
+    <dimen name="play_star_rating_bar_small_gap">1.0dip</dimen>
+    <dimen name="play_star_rating_bar_small_height">11.0dip</dimen>
+    <dimen name="standard_button_minwidth">120.0dip</dimen>
+    <dimen name="warm_welcome_v2_card_text_padding">24.0dip</dimen>
+</resources>

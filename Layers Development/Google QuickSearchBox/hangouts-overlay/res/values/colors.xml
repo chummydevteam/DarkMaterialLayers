@@ -71,7 +71,7 @@
 		<color name="qp_blue">#ff4285f4</color>
 		<color name="qp_blue_dark">#ff4285f4</color>
 		<color name="qp_status_none">#ff1f1f1f</color>
-		<color name="qp_card_separator">@android:color/black</color>
+		<color name="qp_card_separator">@android:color/darker_gray</color>
 		<color name="qp_drawer_background">@android:color/black</color>
 		<color name="qp_drawer_icon">@android:color/white</color>
 		<color name="qp_drawer_selected">#ff212021</color>

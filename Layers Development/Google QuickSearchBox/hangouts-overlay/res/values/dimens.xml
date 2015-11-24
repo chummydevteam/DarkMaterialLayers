@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Search's Dimensions-->
+
+<resources>
+    <dimen name="qp_action_icon_size">24.0dip</dimen>
+</resources>

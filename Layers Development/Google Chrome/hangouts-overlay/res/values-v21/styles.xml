@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--You are editing Chrome's Styles-->
 
-<resources>    
-	<style name="Base.Theme.AppCompat.Light.Dialog" parent="@android:style/Theme.Material.Dialog">
-		<item name="android:textColorPrimary">#ff777777</item>
-	</style>
+<resources>
     <style name="Platform.AppCompat" parent="@android:style/Theme.Material" />
-    <style name="PreferencesTheme" parent="@android:style/Theme.Material">
-		<item name="android:textColorPrimary">#ff777777</item>
-	</style>
     <style name="Platform.AppCompat.Light.Dialog" parent="@android:style/Theme.Material.Dialog" />
     <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
         <item name="android:colorBackground">#ff212021</item>

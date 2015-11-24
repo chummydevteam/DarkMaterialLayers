@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BottomBarNotificationCounter">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">end|center|top</item>
+        <item name="android:background">@drawable/bottom_bar_notification_count_background</item>
+        <item name="android:backgroundTint">@android:color/holo_red_dark</item>
+        <item name="android:layout_width">8.0dip</item>
+        <item name="android:layout_height">8.0dip</item>
+        <item name="android:layout_marginTop">4.0dip</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+    </style>
+</resources>

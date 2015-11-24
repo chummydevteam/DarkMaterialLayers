@@ -293,9 +293,6 @@
     <color name="promo_survey_answer_bg">#ff212021</color>
     <color name="quantum_black_100">#ff212021</color>
     <color name="quantum_black_divider">#1fffffff</color>
-    <color name="quantum_black_hint_text">#42ffffff</color>
-    <color name="quantum_black_secondary_text">#89ffffff</color>
-    <color name="quantum_black_text">#ddffffff</color>
     <color name="quantum_bluegrey50">#ff212021</color>
     <color name="quantum_bluegrey500">#40ffffff</color>
     <color name="quantum_bluegrey700">#ff212021</color>
@@ -328,22 +325,22 @@
     <color name="quantum_googblueA200">#ffc3c3c3</color>
     <color name="quantum_googblueA400">#ffc3c3c3</color>
     <color name="quantum_googblueA700">#ffc3c3c3</color>
-    <color name="quantum_googgreen">#ff212021</color>
+    <color name="quantum_googgreen">#ff0f9d58</color>
     <color name="quantum_googred100">#ff212021</color>
     <color name="quantum_googred200">#ff212021</color>
     <color name="quantum_googred300">#ff212021</color>
     <color name="quantum_googred400">#ff212021</color>
     <color name="quantum_googred50">#ff212021</color>
-    <color name="quantum_googred500">#ff212021</color>
+    <color name="quantum_googred500">#ffdb4437</color>
     <color name="quantum_googred600">#ff212021</color>
-    <color name="quantum_googred700">#ff212021</color>
+    <color name="quantum_googred700">#ff000000</color>
     <color name="quantum_googred800">#ff212021</color>
     <color name="quantum_googred900">#ff212021</color>
     <color name="quantum_googredA100">#ff212021</color>
     <color name="quantum_googredA200">#ff212021</color>
     <color name="quantum_googredA400">#ff212021</color>
     <color name="quantum_googredA700">#ff212021</color>
-    <color name="quantum_grey">#ffaaaaaa</color>
+    <color name="quantum_grey">@android:color/black</color>
     <color name="quantum_grey100">#ff212021</color>
     <color name="quantum_grey200">#ff212021</color>
     <color name="quantum_grey300">#ff212021</color>
@@ -363,7 +360,7 @@
     <color name="quantum_lightblue50">#ffbbbbbb</color>
     <color name="quantum_lightblue500">#ffbbbbbb</color>
     <color name="quantum_lightblue600">#ffbbbbbb</color>
-    <color name="quantum_lightblue700">#ffbbbbbb</color>
+    <color name="quantum_lightblue700">#ff000000</color>
     <color name="quantum_lightblue800">#ffbbbbbb</color>
     <color name="quantum_lightblue900">#ffbbbbbb</color>
     <color name="quantum_lightblueA100">#ffbbbbbb</color>
@@ -384,7 +381,7 @@
     <color name="quantum_orangeA400">#ff212021</color>
     <color name="quantum_orangeA700">#ff212021</color>
     <color name="quantum_teal500">@android:color/white</color>
-    <color name="quantum_white_100">@android:color/white</color>
+    <color name="quantum_white_100">@android:color/black</color>
     <color name="quantum_white_divider">#1fffffff</color>
     <color name="quantum_white_hint_text">#4dffffff</color>
     <color name="quantum_white_secondary_text">#ffc3c3c3</color>
@@ -427,13 +424,13 @@
     <color name="space_learn_more_illustration_page_bg">#ff212021</color>
     <color name="square_blocking_explanation_background">#ff212021</color>
     <color name="square_card_divider">#33ffffff</color>
-    <color name="square_green">#ff54aa41</color>
-    <color name="square_green_dark">#ff212021</color>
-    <color name="square_green_light">#ff212021</color>
+    <color name="square_green">#ff000000</color>
+    <color name="square_green_dark">#ff000000</color>
+    <color name="square_green_light">#ff777777</color>
     <color name="square_moderator_badge_color">#ff1c9e0a</color>
     <color name="square_promo_header_color">#ff53a93f</color>
-    <color name="status_bar_background">#ff212021</color>
-    <color name="status_bar_color">#ff212021</color>
+    <color name="status_bar_background">#ff000000</color>
+    <color name="status_bar_color">#ff000000</color>
     <color name="story_caption_placeholder_border_color">#99aaaaaa</color>
     <color name="story_card_subtitle_text_color">#ffc3c3c3</color>
     <color name="story_card_title_text_color">#ffb7b7b7</color>
@@ -558,4 +555,10 @@
     <color name="write_place_review_bg">#ff212021</color>
     <color name="year_row_divider">#33ffffff</color>
     <color name="youtube_settings_prompt_bg">#cc000000</color>
+    <color name="cardview_light_background">@android:color/black</color>
+    <color name="material_grey_50">@android:color/black</color>
+
+    <color name="quantum_black_hint_text">#ffeeeeee</color> <!--This controls hint text to Search-->
+    <color name="quantum_black_secondary_text">#ffeeeeee</color>
+    <color name="quantum_black_text">@android:color/white</color> <!--This controls typed in text in search bar and settings actionbar text color-->
 </resources>
