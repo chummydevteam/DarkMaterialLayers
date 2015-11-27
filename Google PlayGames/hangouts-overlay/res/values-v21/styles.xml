@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Play Games' Styles-->
+
+<resources>
+    <style name="common.Theme.Base.GoogleSettings" parent="@android:style/Theme.Material">
+        <item name="colorPrimary">#ff212021</item>
+        <item name="colorPrimaryDark">#ff212021</item>
+        <item name="colorAccent">@android:color/white</item>
+	</style>
+	<style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Platform.AppCompat.Light.Dialog" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

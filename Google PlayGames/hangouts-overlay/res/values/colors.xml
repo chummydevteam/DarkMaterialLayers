@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Play Games' Colors-->
+
+<resources>
+    <color name="achievement_progress_bar">@android:color/darker_gray</color>
+    <color name="achievement_progress_text">@android:color/darker_gray</color>
+	
+    <color name="add_accounts_text_color">@android:color/white</color>
+    <color name="background_floating_material_light">@android:color/black</color>
+    <color name="background_material_dark">@android:color/white</color>
+    <color name="background_material_light">@android:color/black</color>
+    <color name="bright_foreground_material_dark">@android:color/black</color>
+    <color name="cardview_light_background">#ff212021</color>
+
+    <color name="games_destination_bg">@android:color/black</color>
+
+    <color name="games_game_detail_about_description">@android:color/white</color>
+    <color name="games_game_detail_about_title">@android:color/black</color>
+    <color name="games_game_detail_banner_installing_unavailable">#bf000000</color>
+    <color name="games_game_detail_banner_overlay">#4d000000</color>
+    <color name="games_game_detail_meta_data_text_color">#deffffff</color>
+    <color name="games_game_detail_text_color_badge">@android:color/white</color>
+    <color name="games_game_detail_text_color_badge_description">#ffaaaaaa</color>
+	
+	<color name="games_xp_chart_header">@android:color/black</color>
+	<color name="games_xp_event_level_up">@android:color/black</color>
+	<color name="games_xp_event_title">@android:color/black</color>
+    <color name="games_genre_xp_text_color">@android:color/black</color>
+	
+	<color name="primary_dark_material_light">#ff4e802b</color>
+
+	<!--Card Text Colors-->
+		<color name="games_onyx_action_secondary_text_color">@android:color/darker_gray</color>
+		<color name="games_onyx_description_text_color">@android:color/darker_gray</color>
+		<color name="games_onyx_subtitle_text_color">@android:color/darker_gray</color>
+		<color name="games_onyx_title_text_color">#ff5e5e5e</color>
+	
+    <color name="account_text_color">@android:color/white</color>
+    <color name="games_side_drawer_background">#ff212021</color>
+    <color name="games_side_drawer_menu_item_text_color">@android:color/white</color>
+    <color name="default_account_details_color">@android:color/white</color>
+
+    <color name="games_xp_chart_level_progress">@android:color/black</color>
+    <color name="manage_accounts_text_color">@android:color/white</color>
+	
+    <color name="material_blue_grey_900">#ff212021</color>
+	
+	<color name="highlighted_text_material_light">@android:color/darker_gray</color>
+    <color name="material_deep_teal_500">@android:color/white</color>
+	<color name="material_teal_500">@android:color/white</color>
+
+    <color name="play_fg_primary">@android:color/white</color>
+    <color name="play_fg_secondary">#ffeeeeee</color>
+    <color name="play_fg_secondary_half_transparent">#70eeeeee</color>
+
+    <color name="play_main_background">@android:color/black</color>
+    <color name="play_card_light_background">#ff212021</color>
+    <color name="play_search_plate_navigation_button_color">#ffeeeeee</color>
+	
+	<color name="games_client_translucent_bg">#ff000000</color>
+    <color name="play_games_client_action_bar">#ff212021</color>
+    <color name="play_games_client_status_bar">#ff212021</color>
+	
+	<color name="material_blue_grey_800">@android:color/transparent</color>
+	<color name="play_games_steel_grey">@android:color/transparent</color>
+	<color name="play_multi_recents">@android:color/transparent</color>
+	
+	<color name="play_games_theme_secondary">#ff4e802b</color>
+    <color name="play_games_theme_status_bar">@color/play_games_theme_secondary</color>	
+	
+	<color name="games_white_color">@android:color/black</color>
+    <color name="play_white">@android:color/black</color>
+    <color name="play_white_disabled">#70000000</color>
+    <color name="play_white_half_transparent">#32000000</color>	
+	
+    <color name="primary_text_default_material_dark">@android:color/white</color>
+    <color name="primary_text_default_material_light">@android:color/white</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="primary_text_disabled_material_light">#4dffffff</color>
+	
+	<color name="games_achievement_title_unlocked">@android:color/white</color>
+	<color name="games_completed_quests_name_text_color">@android:color/white</color>
+	<color name="games_game_detail_text_color_badge_title">@android:color/white</color>
+	<color name="games_side_drawer_accounts_background">@android:color/white</color>
+	<color name="games_side_drawer_accounts_background_tint">#80ffffff</color>
+	<color name="games_side_drawer_item_selected_text_color">@android:color/white</color>
+	<color name="games_tile_mini_game_name_text_color">@android:color/white</color>
+	<color name="games_tile_quest_text_color_name">@android:color/white</color>
+	<color name="games_tile_text_color_primary_text">@android:color/darker_gray</color>
+	<color name="games_tile_text_color_secondary_text">@android:color/darker_gray</color>
+	<color name="play_onboard_simple_quiz_title_text_color">@android:color/white</color>
+</resources>

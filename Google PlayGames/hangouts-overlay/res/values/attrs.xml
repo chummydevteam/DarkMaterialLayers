@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Play Games' Attributes-->
+
+<resources>
+    <attr name="colorAccent" format="color" />
+    <attr name="colorPrimary" format="color" />
+    <attr name="colorPrimaryDark" format="color" />
+</resources>
