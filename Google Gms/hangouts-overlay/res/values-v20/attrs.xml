@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Services' Attributes-->
+
+<resources>
+	<attr name="auth_setup_wizard_divider_color" format="reference|color" />
+    <attr name="buttonBarStyle" format="reference" />
+    <attr name="buttonBarButtonStyle" format="reference" />
+    <attr name="colorPrimaryDark" format="color" />
+    <attr name="dividerHorizontal" format="reference" />
+    <attr name="auth_setup_wizard_link_color" format="reference|color" />
+</resources>

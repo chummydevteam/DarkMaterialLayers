@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Services' Styles-->
+
+<resources>
+    <style name="AlertThemeSelector" parent="@android:style/Theme.Material.Panel">
+        <item name="android:backgroundDimAmount">0.6</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="auth_setup_wizard_theme_material.light" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="auth_setup_wizard_divider_color">#ffeeeeee</item>
+        <item name="auth_setup_wizard_link_color">#ffeeeeee</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Light" parent="@android:style/ThemeOverlay.Material" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText" parent="@android:style/Widget.Material.ActionBar.TabText" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="@android:style/Widget.Material.ActionBar.TabText" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabView" parent="@android:style/Widget.Material.ActionBar.TabView" />
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@android:style/Widget.Material.PopupMenu" />
+    <style name="common.Theme.Base.NoAppCompat.Light.Dialog" parent="@android:style/Theme.Material.Dialog">
+        <item name="buttonBarStyle">?android:buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:buttonBarButtonStyle</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+    </style>
+    <style name="common.Theme.Base.NoAppCompat.Light.Dialog.MinWidth" parent="@android:style/Theme.Material.Dialog.MinWidth">
+        <item name="buttonBarStyle">?android:buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:buttonBarButtonStyle</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+    </style>
+    <style name="DialogActivityStyle" parent="@android:style/Theme.Material.Dialog" />
+    <style name="drive_Button_Platform" parent="@android:style/Widget.Material.Button.Borderless" />
+    <style name="drive_ProgressBarHorizontalIndeterminate" parent="@android:style/Widget.Material.ProgressBar.Horizontal">
+        <item name="android:indeterminateOnly">true</item>
+    </style>
+    <style name="drive_Spinner" parent="@android:style/Widget.Material.Spinner.Underlined" />
+    <style name="kids_setup_wizard_content_sub_text">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffeeeeee</item>
+        <item name="android:lineSpacingExtra">8.0sp</item>
+        <item name="android:alpha">0.7</item>
+    </style>
+    <style name="PeopleButton.Borderless" parent="@android:style/Widget.Material.Button.Borderless" />
+    <style name="PeopleDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:textColorPrimary">@android:color/darker_gray</item>
+        <item name="android:textColorPrimaryInverse">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Platform.AppCompat.Light.Dialog" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="SetBackupAccountActivity" parent="@android:style/Theme.Material.Dialog" />
+    <style name="systemUpdateActivityTheme" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#ff212021</item>
+        <item name="colorPrimaryDark">#ff212021</item>
+    </style>
+    <style name="Widget_Wallet_Spinner_Light" parent="@android:style/Widget.Material.Spinner" />
+    <style name="Widget_Wallet_Spinner_Light_Underlined" parent="@android:style/Widget.Material.Spinner.Underlined" />
+</resources>
