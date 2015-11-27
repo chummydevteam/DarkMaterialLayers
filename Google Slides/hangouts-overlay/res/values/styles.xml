@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Slides' Styles-->
+
+<resources>
+    <style name="AccountsSwitcher" parent="">
+		<item name="android:textColor">@android:color/white</item>
+	</style>
+    <style name="AccountsSwitcher.AccountDisplayNameStyle" parent="@style/AccountsSwitcher">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+    <style name="BaseButton" parent="@android:style/Widget.Material.Button">
+        <item name="android:stateListAnimator">@null</item>
+    </style>
+</resources>
