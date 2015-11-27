@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing OG YouTube's Styles-->
+
+<resources>
+    <style name="OGStyle" parent="@android:style/Theme.Material" />
+</resources>
