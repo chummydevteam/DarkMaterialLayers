@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Docs' Colors-->
+
+<resources>	
+	<color name="quickpoint_plain_background">@android:color/black</color>
+	<color name="qs_sheet_tab_horizontal_divider">@android:color/black</color>
+	<color name="selection_popup_item_pressed">@android:color/black</color>
+	<color name="trix_list_item_background_color">@android:color/black</color>
+	<color name="trix_sheet_default_background">@android:color/black</color>
+	<color name="quantum_grey200">@android:color/black</color>
+    <color name="quantum_googgreen500">#ff212021</color>
+	
+	<color name="quantum_grey900">@android:color/white</color>
+	<color name="m_black_87_percent">@android:color/white</color>
+	
+    <color name="m_material_snackbar_bg">#ff212021</color>
+    <color name="hud_bar_background">#ff212021</color>
+
+	<color name="m_app_background">@android:color/black</color>
+    <color name="m_app_secondary_background">@android:color/black</color>
+	<color name="m_app_overlay_shadow">#88ffffff</color>
+	<color name="m_app_secondary">@android:color/black</color>
+	<color name="navigation_item_active_text">@android:color/white</color>
+
+    <color name="m_app_status_bar">@android:color/black</color>
+</resources>
