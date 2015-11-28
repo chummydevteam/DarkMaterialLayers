@@ -1,0 +1,8 @@
+{
+  "type": "overlay",
+  "overlay_type": "general",
+  "name": "Facebook",
+  "target": "com.facebook.katana",
+  "priority": "250",
+  "auto_install": true
+}

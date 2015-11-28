@@ -1,0 +1,8 @@
+{
+  "type": "overlay",
+  "overlay_type": "general",
+  "name": "Facebook Messenger",
+  "target": "com.facebook.orca",
+  "priority": "250",
+  "auto_install": true
+}

@@ -1,0 +1,8 @@
+{
+  "type": "overlay",
+  "overlay_type": "general",
+  "name": "Google Camera",
+  "target": "com.google.android.GoogleCamera",
+  "priority": "250",
+  "auto_install": true
+}
