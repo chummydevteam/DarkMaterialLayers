@@ -64,7 +64,7 @@ set /a line_count = %cnt% + 24
 	)
 
 :performTasks
-	mode con: cols=62 lines=9
+	mode con: cols=62 lines=10
 	echo  ===========================================================
 	echo  You are currently handling "%filename%.apk"
 	echo  ===========================================================
@@ -80,12 +80,8 @@ set /a line_count = %cnt% + 24
 		adb shell su -c "exit"
 		cls
 		goto :performTasks
-	)
-	if %whattodo% == 2 (
-		cls
-		goto welcomeMessage
 	) else (
 		cls
 		goto welcomeMessage
-	)
+	) 
 :break
