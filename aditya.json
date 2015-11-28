@@ -2,7 +2,7 @@
   "type": "plugin",
   "plugin_name": "dark material",
   "plugin_description": "welcome to marshmallow, darkened!",
-  "framework_location": "C:\\Users\\Nicholas\\AppData\\Local\\Android\\sdk\\platforms\\android-23\\android.jar",
+  "framework_location": "E:\\Android\\sdk\\android-sdk\\platforms\\android-22\\android.jar",
   "package_name": "com.chummy.jezebel.material.dark",
   "overlays": [
     "General"
