@@ -1,0 +1,8 @@
+{
+  "type": "overlay",
+  "overlay_type": "general",
+  "name": "Google Chrome",
+  "target": "com.android.chrome",
+  "priority": "250",
+  "auto_install": true
+}
