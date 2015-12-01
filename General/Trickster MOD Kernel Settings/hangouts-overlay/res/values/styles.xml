@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing TricksterMod's Styles-->
+
+<resources>
+    <style name="Theme.Holo.Light.DarkActionBar" parent="@android:style/Theme.Material" >
+		<item name="android:colorAccent">#ff777777</item>
+	</style>
+</resources>

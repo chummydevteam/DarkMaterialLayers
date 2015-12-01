@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing BZ Reminder & Birthday's Colors-->
+
+<resources>
+    <color name="background_main_dark">@android:color/black</color>
+    <color name="cardview_dark_background">@android:color/black</color>
+    <color name="primary_dark">#ff212021</color>
+    <color name="primary_dark_dark">#ff212021</color>
+	
+    <color name="blue_dark">#ff212021</color>
+    <color name="blue_light">#ff212021</color>
+    <color name="blue_selected_list_item">#ff212021</color>
+</resources>

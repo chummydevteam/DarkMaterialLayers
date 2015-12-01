@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Audials' Styles-->
+
+<resources>
+    <style name="ColorNotificationBackground">
+        <item name="android:background">#e6212021</item>
+    </style>
+</resources>

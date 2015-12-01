@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--You are editing Gmail's Colors-->
-
-<resources>
-    <color name="mini_drawer_activated_background_color">@android:color/black</color>
-    <color name="text_color_undo_notification">#ff777777</color>
-    <color name="text_color_undo_notification_description">#ff777777</color>
-</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing PandoraPatcher's Colors-->
+
+<resources>
+	<color name="highlighted_text_material_light">#66ffffff</color>
+    <color name="material_deep_teal_500">@android:color/white</color>
+</resources>

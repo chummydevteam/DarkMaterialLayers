@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Translate's Colors-->
+
+<resources>
+    <color name="grey">#ff212021</color>
+    <color name="primary_blue">#ff212021</color>
+    <color name="primary_blue_dark">#ff212021</color>
+	
+	<color name="primary_text">#ff9d9d9d</color>
+    <color name="gf_shadow">#cc777777</color>
+
+    <color name="activity_background">@android:color/black</color>
+    <color name="lang_picker_background">@android:color/black</color>
+    <color name="gtr_btn_candidate_normal">@android:color/black</color>
+
+    <color name="accent_material_light">#ff777777</color>
+</resources>

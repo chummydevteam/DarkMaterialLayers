@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Dropbox's Styles-->
+
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:textColorPrimary">#ff9d9d9d</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

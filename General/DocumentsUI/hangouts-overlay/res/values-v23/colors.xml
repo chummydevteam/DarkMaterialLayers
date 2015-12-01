@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing DocumentsUI's Colors-->
+
+<resources>
+	<color name="item_root_icon">@android:color/white</color>
+	<color name="item_root_primary_text">@android:color/white</color>
+</resources>

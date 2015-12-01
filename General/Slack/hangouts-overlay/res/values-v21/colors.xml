@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Slack's Styles-->
+
+<resources>
+    <color name="notification_text_highlight">@android:color/white</color>
+</resources>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Boxer's Styles-->
+
+<resources>
+    <style name="BaseLightStyle" parent="@android:style/Theme.Material.NoActionBar" />
+	<style name="ComposeFieldLayout">
+		<item name="android:background">@android:color/black</item>
+        <item name="android:backgroundTint">@android:color/black</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:focusable">false</item>
+        <item name="android:focusableInTouchMode">false</item>
+        <item name="android:clickable">true</item>
+        <item name="android:addStatesFromChildren">true</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="ComposeBodyViewBase" parent="@style/ComposeEditTextView">
+        <item name="android:textColorHint">@android:color/white</item>
+        <item name="android:inputType">textLongMessage|textCapSentences|textMultiLine</item>
+		<item name="android:background">@android:color/black</item>
+        <item name="android:backgroundTint">@android:color/black</item>
+    </style>
+    <style name="ComposeEditTextView">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@android:color/black</item>
+        <item name="android:backgroundTint">@android:color/black</item>
+        <item name="android:paddingTop">@dimen/compose_edit_text_top_margin</item>
+        <item name="android:paddingBottom">@dimen/compose_edit_text_top_margin</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+	<style name="ComposeFieldContentBase">
+		<item name="android:background">@android:color/black</item>
+        <item name="android:backgroundTint">@android:color/black</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:minHeight">@dimen/compose_header_min_height</item>
+    </style>
+	<style name="ComposeFromTextViewStyle">
+		<item name="android:background">@android:color/black</item>
+		<item name="android:backgroundTint">@android:color/black</item>
+        <item name="android:textSize">@dimen/compose_header_text_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ComposeHeading">
+		<item name="android:background">@android:color/black</item>
+        <item name="android:backgroundTint">@android:color/black</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ff777777</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minWidth">@dimen/compose_header_min_height</item>
+        <item name="android:minHeight">@dimen/compose_header_min_height</item>
+    </style>
+	<style name="RecipientComposeFieldLayout" parent="@style/ComposeFieldLayout">
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingTop">0.0dip</item>
+    </style>
+    <style name="Theme.Light.Blu.blue.Compose" parent="@android:style/Theme.Material" />
+	<style name="Theme.Light.Blu.pink.Compose" parent="@android:style/Theme.Material" />
+	<style name="Theme.Light.Boxer.Compose" parent="@android:style/Theme.Material" />
+	<style name="Theme.Light.CM.Compose" parent="@android:style/Theme.Material" />
+</resources>

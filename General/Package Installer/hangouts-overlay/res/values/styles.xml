@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing PackageInstaller's Styles-->
+
+<resources>
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.DeviceDefault.DialogWhenLarge.NoActionBar">
+		<item name="android:statusBarColor">@android:color/black</item>
+	</style>
+    <style name="Theme.AlertDialogActivity" parent="@android:style/Theme.DeviceDefault.Panel" />
+</resources>

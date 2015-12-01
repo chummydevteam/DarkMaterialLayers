@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Tinfoil for Facebook's Styles-->
+
+<resources>
+    <style name="AppBasePreferencesTheme" parent="@android:style/Theme.Material" />
+    <style name="AppBaseTheme" parent="@android:style/Theme.Material" />
+    <style name="Widget.Tinfoil.ProgressBar" parent="@android:style/Widget.Material.ProgressBar.Horizontal" />
+</resources>

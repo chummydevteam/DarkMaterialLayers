@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Phone's Colors-->
+
+<resources>
+    <style name="Theme.Settings" parent="@android:style/Theme.Material" />
+    <style name="SettingsLight" parent="@android:style/Theme.Material" />
+    <style name="DialerAlertDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="NetworkOperatorsSettingsTheme" parent="@android:style/Theme.Material" />
+    <style name="Theme.InCallScreen" parent="@android:style/Theme.Material" />
+    <style name="EmergencyDialerTheme" parent="@android:style/Theme.Material" />
+    <style name="SimImportTheme" parent="@android:style/Theme.Material" />
+    <style name="Theme.Material.Settings" parent="@android:style/Theme.Material.Settings" />
+</resources>

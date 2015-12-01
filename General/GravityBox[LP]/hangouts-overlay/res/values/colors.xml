@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing GravityBox's Colors-->
+
+<resources>
+    <color name="pie_overlay_color">#cc000000</color>
+    <color name="pie_snap_color">@android:color/holo_blue_light</color>
+    <color name="pie_text_color">@android:color/white</color>
+    <color name="pie_foreground_color">@android:color/white</color>
+    <color name="pie_background_color">#dd0099cc</color>
+    <color name="pie_selected_color">@android:color/holo_blue_light</color>
+    <color name="pie_outline_color">#dd0099cc</color>
+    <color name="dragndrop_background">@android:color/holo_blue_light</color>
+    <color name="navbar_key_color">#e8ffffff</color>
+    <color name="navbar_key_glow_color">#33ffffff</color>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing GitSkarios' Colors-->
+
+<resources>
+    <color name="primary">#ff212021</color>
+    <color name="primary_dark">#ff212021</color>
+    <color name="primary_alpha">#ff212021</color>
+    <color name="primary_dark_alpha">#ff212021</color>
+
+    <color name="primary_light">#ff212021</color>
+    <color name="accent">#ff212021</color>
+    <color name="accent_dark">#ff212021</color>
+	
+    <color name="icons">#ff212021</color>
+    <color name="divider">#ff212021</color>
+	
+    <color name="theme_accent">#ff212021</color>
+    <color name="theme_default_primary">#ff212021</color>
+    <color name="theme_default_primary_dark">#ff212021</color>
+</resources>

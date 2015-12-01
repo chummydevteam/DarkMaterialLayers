@@ -1,30 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.chummy.darkmaterial_layers"
-    android:versionCode="7"
-    android:versionName="3"
-    android:sharedUserId="android.uid.DarkMaterial"
-    android:process="com.android.Layers">
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:process="com.android.Layers" android:sharedUserId="android.uid.DarkMaterial" package="com.chummy.darkmaterial_layers" platformBuildVersionCode="22" platformBuildVersionName="5.1.1-1819727">
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-    <application android:label="Dark Material"
-        android:icon="@drawable/icon">
-        <service android:name="com.chummy.darkmaterial_layers.Overlay"
-            android:exported="true">
+    <application android:icon="@drawable/icon" android:label="@string/ThemeName">
+        <service android:exported="true" android:name="com.chummy.darkmaterial_layers.Overlay">
             <intent-filter>
-                <action android:name="com.layers.plugins.PICK_OVERLAYS" />
-                <category android:name="Overlay" />
+                <action android:name="com.layers.plugins.PICK_OVERLAYS"/>
+                <category android:name="Overlay"/>
             </intent-filter>
-
         </service>
-
-        <meta-data android:name="Layers_Name" android:value="Dark Material"/>
-        <meta-data android:name="Layers_Developer" android:value="Aditya Gupta,Nicholas Chum"/>
-        <meta-data android:name="Layers_Colors" android:value=""/>
-        <meta-data android:name="Layers_Description" android:value="Original Dark MaterialUI,Now for Layers :)"/>
-        <meta-data android:name="Layers_OverlayNames" android:value="AOSP Calculator,AOSP Contacts,AOSP Dialer,AOSP Keyboard,Es File Explorer,Facebook,Facebook Messenger,Framework,Google Camera,Google Chrome,Google Contacts,Google Dialer,Google Docs,Google Gms,Google Hangouts,Google Inbox,Google Keep,Google Keyboard,Google Messenger,Google NowLauncher,Google PlayGames,Google PlayMusic,Google PlayStore,Google Plus,Google Sheets,Google Slides,Google Velvet,Google Youtube,Greenify,Instagram,Kernel Adiutor,MusixMatch,Og Youtube,Settings,Snapchat,Softkeys,Spotify,Super User,SystemUI,Titanium Backup,Twitter,Viber,Whatsapp, "/>
-        <meta-data android:name="Layers_WhatsNew" android:value="v3 \n- Bug Fixes\n- Added Many Apps"/>
-
+        <meta-data android:name="Layers_Name" android:value="@string/ThemeName"/>
+        <meta-data android:name="Layers_Developer" android:value="@string/ThemeDeveloper"/>
+        <meta-data android:name="Layers_Description" android:value="@string/ThemeDescription"/>
+        <meta-data android:name="Layers_WhatsNew" android:value="@string/ThemeWhatsNew"/>
+        <meta-data android:name="Layers_NormalOverlays" android:value="@string/NormalOverlays"/>
+        <meta-data android:name="Layers_StyleSpecificOverlays" android:value="@string/StyleSpecificOverlays"/>
+        <meta-data android:name="Layers_Colors" android:value="@string/Colors"/>
+        <meta-data android:name="Layers_PluginVersion" android:value="@string/PluginVersion"/>
     </application>
-
-
 </manifest>

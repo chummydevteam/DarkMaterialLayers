@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- You are editing Pocket MAL's Colors-->
+
+<resources>
+    <color name="background_material_light">@android:color/black</color>
+    <color name="background_tab_pressed">#66ffffff</color>
+    <color name="bright_foreground_material_dark">#ff212021</color>
+    <color name="main">#ff212021</color>
+    <color name="main_background">@android:color/black</color>
+    <color name="main_dark">#ff212021</color>
+    <color name="main_light">@android:color/black</color>
+    <color name="main_light_pressed">#ff777777</color>
+    <color name="spb_default_color">@android:color/black</color>
+</resources>

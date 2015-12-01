@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing PackageInstaller's Colors-->
+
+<resources>
+	<!--Fail/Succeed Colors, check Drawables-->
+		<color name="success">#ff278610</color>
+		<color name="fail">#ffff0000</color>
+	
+	<color name="grant_permissions_app_color">@android:color/white</color>
+	<color name="header_background_color">#ff373737</color>
+	<color name="lb_basic_card_info_bg_color">#ff373737</color>
+	<color name="material_blue_grey_800">#ff373737</color>
+</resources>

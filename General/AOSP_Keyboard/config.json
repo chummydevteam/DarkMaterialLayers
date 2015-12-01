@@ -1,8 +1,0 @@
-{
-  "type": "overlay",
-  "overlay_type": "general",
-  "name": "AOSP Keyboard",
-  "target": "com.android.inputmethod.latin",
-  "priority": "250",
-  "auto_install": true
-}

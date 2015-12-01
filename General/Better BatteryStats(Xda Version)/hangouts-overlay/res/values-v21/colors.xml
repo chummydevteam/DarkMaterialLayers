@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing BetterBatteryStats' Colors-->
+
+<resources>
+    <color name="nephritis">#ff212021</color>
+    <color name="color_accent">#ff777777</color>
+	
+	<color name="signature_color">#ff777777</color>
+	<color name="state_yellow">#ff777777</color>
+	<color name="sunflower">#ff777777</color>
+</resources>

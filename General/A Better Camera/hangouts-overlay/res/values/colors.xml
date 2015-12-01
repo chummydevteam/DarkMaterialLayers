@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing A Better Camera's Colors-->
+
+<resources>
+    <color name="progress_start">@android:color/white</color>
+    <color name="progress_end">@android:color/white</color>
+</resources>

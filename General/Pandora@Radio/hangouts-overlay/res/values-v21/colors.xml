@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Pandora's Colors-->
+
+<resources>
+    <color name="rich_notification_bg">#ff1e1e1e</color>
+    <color name="rich_notification_disabled_icon">#88ffffff</color>
+    <color name="rich_notification_divider">#ffd2d2d2</color>
+    <color name="rich_notification_icon">#ff777777</color>
+    <color name="rich_notification_icon_thumbed">@android:color/white</color>
+</resources>

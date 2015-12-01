@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Holo">
+        <item name="android:background">@android:color/black</item>
+    </style>
+    <style name="AppTheme" parent="@style/AppBaseTheme">
+        <item name="android:background">@android:color/black</item>
+    </style>
+    <style name="ActionBarStyle" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@android:color/black</item>
+    </style>
+    <style name="Theme.Photos.ActionBar.Overflow" parent="@android:style/Widget.Holo.Light.ActionButton.Overflow">
+        <item name="android:id">@id/actionbar_overflow</item>
+        <item name="android:src">@drawable/quantum_ic_drawer_grey600_24</item>
+    </style>
+    <style name="Theme.Photos.ActionBar.Inverse.Overflow" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:id">@id/actionbar_overflow</item>
+        <item name="android:src">@drawable/quantum_ic_drawer_white_24</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionButton" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:background">#ffffffff</item>
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width_material</item>
+        <item name="android:minHeight">@dimen/abc_action_button_min_height_material</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Button" parent="@style/Base.TextAppearance.AppCompat">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat" parent="@android:style/TextAppearance">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textColorHighlight">#ffffffff</item>
+        <item name="android:textColorHint">#ffffffff</item>
+        <item name="android:textColorLink">#ff9e9e9e</item>
+    </style>
+    <style name="LearnMoreTourButtonStyle" parent="@android:style/Widget.DeviceDefault.Button.Borderless">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:layout_marginLeft">24.0dip</item>
+        <item name="android:layout_marginRight">24.0dip</item>
+        <item name="android:minWidth">88.0dip</item>
+        <item name="android:minHeight">48.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="GooglePhotosPromoGetUpdateButton" parent="@style/GooglePhotosPromoButton">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:background">@android:color/darker_gray</item>
+    </style>
+    <style name="GooglePhotosPromoButton" parent="@style/quantum_text_button_black">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:layout_width">200.0dip</item>
+        <item name="android:layout_height">36.0dip</item>
+    </style>
+    <style name="quantum_text_button_black" parent="@style/quantum_text_black_dark">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="quantum_text_black_dark">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="quantum_text_title_white" parent="@style/quantum_text_white_light">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="quantum_text_white_light">
+        <item name="android:textColor">@color/quantum_white_text</item>
+    </style>
+    <style name="Theme.EmeraldSea.Dialog" parent="@android:style/Theme.Holo.Dialog" />
+    <style name="Theme.EmeraldSea.Preference.Dialog" parent="@android:style/Theme.Holo.Dialog" />
+    <style name="DateTimePickerButton" parent="@android:style/Widget.Holo.Spinner">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingStart">16.0dip</item>
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="Theme.Settings" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@android:color/black</item>
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing LightFlow's Colors-->
+
+<resources>
+    <color name="background_material_dark">@android:color/black</color>
+    <color name="background_slider_dark">@android:color/black</color>
+	
+    <color name="background_floating_material_dark">#4a777777</color>
+	
+    <color name="darkbackground">@android:color/black</color>
+    <color name="pager_holo_dark">@android:color/black</color>
+	
+	<color name="reactle_color">#ffd20300</color>
+	<color name="red">#ff777777</color>
+</resources>

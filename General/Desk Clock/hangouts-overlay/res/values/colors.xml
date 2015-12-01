@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing DeskClock's Colors-->
+
+<resources>
+    <color name="deskclock_color">@android:color/black</color>
+	
+    <color name="clock_white">@android:color/white</color>
+	<color name="white">@android:color/white</color>
+	
+    <color name="blue_focused">#ffc1e8f7</color>
+    <color name="neutral_pressed">#33999999</color>
+	
+    <color name="done_text_color_normal">@android:color/white</color>
+    <color name="done_text_color_disabled">#ffcccccc</color>
+
+    <color name="black">@android:color/white</color>
+    <color name="black_87p">#deffffff</color>
+    <color name="black_54p">#8affffff</color>
+    <color name="black_16p">#28ffffff</color>
+	
+    <color name="bright_foreground_light_disabled">#80ffffff</color>
+	
+    <color name="default_background">@android:color/black</color>
+    <color name="status_bar">@android:color/transparent</color>
+	
+    <color name="time_picker_gray">#ff212021</color>
+</resources>

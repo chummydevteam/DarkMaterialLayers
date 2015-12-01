@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Terminal's Colors-->
+
+<resources>
+    <color name="primary">#ff212021</color>
+    <color name="primary_dark">#ff212021</color>
+    <color name="accent">@android:color/white</color>
+</resources>

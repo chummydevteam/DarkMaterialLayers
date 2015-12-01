@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing PackageInstaller's Drawables-->
+
+<resources>
+    <item type="drawable" name="tab_container_bg">@android:color/black</item>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Authenticator's Colors-->
+
+<resources>
+    <color name="countdown_indicator">@android:color/white</color>
+</resources>

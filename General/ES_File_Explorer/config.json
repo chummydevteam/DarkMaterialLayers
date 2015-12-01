@@ -1,8 +1,0 @@
-{
-  "type": "overlay",
-  "overlay_type": "general",
-  "name": "ES File Explorer",
-  "target": "com.estrongs.android.pop",
-  "priority": "250",
-  "auto_install": true
-}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing TextNow's Colors-->
+
+<resources>
+    <color name="accent_green">@android:color/white</color>
+    <color name="primary_grey">#ff212021</color>
+    <color name="primary_dark_grey">#ff212021</color>
+	
+    <color name="dark_theme_background">@android:color/black</color>
+    <color name="dark_theme_alternate_background">@android:color/black</color>
+</resources>

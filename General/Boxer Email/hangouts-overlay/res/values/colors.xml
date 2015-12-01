@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Boxer's Colors-->
+
+<resources>
+	<color name="ap_overflow_badge_color">#cc000000</color>
+	<color name="background_material_light">@android:color/black</color>
+
+    <color name="boxer_accountSetupTextColorPrimary">@android:color/white</color>
+    <color name="boxer_accountSetupTextColorSecondary">#ff777777</color>
+    <color name="boxer_primary">@android:color/black</color>
+    <color name="boxer_upgrade_title_disabled_color">#4dffffff</color>
+    <color name="boxer_upgrade_title_enabled_color">@android:color/white</color>
+    <color name="card_background">#ff212021</color>
+
+    <color name="cm_acct_setup_start_bg">#ff212021</color>
+    <color name="cm_acct_setup_start_btn_bar_bg">#ff212021</color>
+
+    <color name="chips_dropdown_background_activated">#ff4285f4</color>
+    <color name="chips_dropdown_background_pressed">#ffededed</color>	
+	
+    <color name="cm_primary">#ff212021</color>
+    <color name="cm_primaryDark">#ff212021</color>
+
+    <color name="compose_background_color">@android:color/black</color>
+    <color name="compose_bg_cache_hint">@android:color/black</color>
+    <color name="compose_edit_text_color">@android:color/white</color>
+    <color name="compose_label_text">#ff777777</color>
+    <color name="compose_text_view_color">@android:color/white</color>
+
+    <color name="conv_header_show_images_text_color">@android:color/black</color>
+    <color name="conv_header_text_light">#ff777777</color>
+	<color name="conv_header_tittle_color">@android:color/black</color>
+    <color name="conv_subject_text_color">@android:color/white</color>
+    <color name="conv_subtittle_color">#ff777777</color>
+
+    <color name="conversation_item_text_color">#ff9d9d9d</color>
+    <color name="conversation_list_bg_color">@android:color/black</color>
+    <color name="conversation_list_divider_color">#ff777777</color>
+    <color name="conversation_list_sel_bg_color">#ff777777</color>
+    <color name="conversation_tag_bg">#b3ff0000</color>
+    <color name="conversation_view_bg_header_color">@android:color/black</color>
+    <color name="conversation_view_border_color">@android:color/black</color>
+
+	<color name="default_folder_background_color">#ffc2c2c2</color>
+    <color name="default_folder_foreground_color">@android:color/black</color>
+    <color name="default_light_text_color">@android:color/white</color>
+
+    <color name="fab_primary">#ff212021</color>
+    <color name="fab_primary_pressed">#ff777777</color>
+
+    <color name="folder_list_header_text_color">@android:color/white</color>
+    <color name="folder_list_heading_bg_color">@android:color/black</color>
+	<color name="folder_list_heading_border_color">#ff212021</color>
+    <color name="folder_list_heading_text_color">@android:color/white</color>
+	
+    <color name="folder_list_icon_inverse_color">@android:color/black</color>
+    <color name="folder_list_subheading_text_color">@android:color/white</color>
+
+    <color name="list_background_color">@android:color/black</color>
+    <color name="loading_messages_background_color">@android:color/black</color>
+    <color name="primary_material_dark">@android:color/white</color>
+	
+    <color name="settings_primary_text_color">#ff777777</color>
+    <color name="settings_primary_text_color_disabled">#80777777</color>
+
+    <color name="subject_text_color">@android:color/white</color>
+    <color name="swiped_bg_color">@android:color/black</color>
+    <color name="todo_text_color">@android:color/white</color>
+	
+	<!--Account Colors-->
+	    <color name="combined_view_account_color_1">#ff039be5</color>
+		<color name="combined_view_account_color_10">#ff5677fc</color>
+		<color name="combined_view_account_color_11">#ff00e5ff</color>
+		<color name="combined_view_account_color_12">#fffc5ba4</color>
+		<color name="combined_view_account_color_13">#ff1de9b6</color>
+		<color name="combined_view_account_color_14">#ffffea01</color>
+		<color name="combined_view_account_color_15">#ff9c27b1</color>
+		<color name="combined_view_account_color_16">#ffafbfff</color>
+		<color name="combined_view_account_color_17">#ffea80fc</color>
+		<color name="combined_view_account_color_18">#ffcddc39</color>
+		<color name="combined_view_account_color_19">#ffffcc81</color>
+		<color name="combined_view_account_color_2">#fff9534b</color>
+		<color name="combined_view_account_color_20">#ffbf855a</color>
+		<color name="combined_view_account_color_3">#ff72d572</color>
+		<color name="combined_view_account_color_4">#ffff8f01</color>
+		<color name="combined_view_account_color_5">#ff8c6cff</color>
+		<color name="combined_view_account_color_6">#ff0097a7</color>
+		<color name="combined_view_account_color_7">#ffc41411</color>
+		<color name="combined_view_account_color_8">#ff58a058</color>
+		<color name="combined_view_account_color_9">#ffffc107</color>
+</resources>

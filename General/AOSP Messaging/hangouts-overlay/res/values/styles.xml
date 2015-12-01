@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Messaging's Styles-->
+
+<resources>
+    <style name="BugleBaseTheme" parent="@android:style/Theme.Material" />
+    <style name="BugleTheme.ConversationListActivity" parent="@android:style/Theme.Material" />
+    <style name="NotificationSenderText">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="NotificationSecondaryText">
+        <item name="android:textColor">#ffaeaeae</item>
+    </style>
+    <style name="NotificationTertiaryText">
+        <item name="android:textColor">#ffaeaeae</item>
+    </style>
+    <style name="NotificationSubjectText">
+        <item name="android:textColor">#ffaeaeae</item>
+    </style>
+</resources>

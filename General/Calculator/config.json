@@ -1,8 +1,0 @@
-{
-  "type": "overlay",
-  "overlay_type": "general",
-  "name": "Calculator",
-  "target": "com.android.calculator2",
-  "priority": "250",
-  "auto_install": true
-}

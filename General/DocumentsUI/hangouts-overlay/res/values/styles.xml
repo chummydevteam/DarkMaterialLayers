@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing DocumentsUI's Styles-->
+
+<resources>
+    <style name="DialogWhenReallyLarge" parent="@android:style/Theme.Material">
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="android:textColorSecondary">#fffafafa</item>
+    </style>
+    <style name="DocumentsTheme" parent="@style/DialogWhenReallyLarge">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:listDivider">@android:color/transparent</item>
+        <item name="android:windowSoftInputMode">adjustUnspecified|stateUnspecified</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:actionBarWidgetTheme">@null</item>
+        <item name="android:actionBarTheme">@android:style/ThemeOverlay.Material.Dark.ActionBar</item>
+        <item name="android:colorPrimary">#ff212021</item>
+        <item name="android:colorPrimaryDark">#ff212021</item>
+        <item name="android:colorAccent">#ff777777</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:actionBarPopupTheme">@android:style/ThemeOverlay.Material.Light</item>
+    </style>
+</resources>

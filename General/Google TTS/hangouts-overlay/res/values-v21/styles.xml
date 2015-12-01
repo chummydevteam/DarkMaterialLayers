@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Text-to-Speech's Styles-->
+
+<resources>
+    <style name="platformSettingsTheme" parent="@android:style/Theme.Material.Settings" />
+    <style name="platformDialogWhenLargeTheme" parent="@android:style/Theme.Material.DialogWhenLarge" />
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing GroupMe's Colors-->
+
+<resources>	
+    <color name="groupme_blue_500">#ff212021</color>
+    <color name="groupme_blue_700">#ff212021</color>
+    <color name="groupme_gray_600">#ff777777</color>
+    <color name="groupme_gray_700">#ff777777</color>
+</resources>

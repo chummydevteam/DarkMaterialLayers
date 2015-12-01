@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Cloud Print's Colors-->
+
+<resources>
+    <color name="accent_color">#ff777777</color>
+    <color name="color_primary">#ff212021</color>
+    <color name="color_primary_dark">#ff212021</color>
+
+    <color name="text_color_primary">@android:color/white</color>
+    <color name="text_color_secondary">@android:color/white</color>
+    <color name="text_color_foreground_grey">@android:color/white</color>
+
+    <color name="white_background">@android:color/black</color>
+	
+    <color name="blue_grey_300">#ff212021</color>
+    <color name="icon_grey">@android:color/black</color>
+</resources>

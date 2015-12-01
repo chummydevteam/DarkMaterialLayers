@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Browser's Colors-->
+
+<resources>
+    <color name="black">@android:color/white</color>
+    <color name="primary">#ff212021</color>
+    <color name="primary_dark">#ff212021</color>
+    <color name="accent">#ff777777</color>
+    <color name="text_color">#ff777777</color>
+    <color name="floating_action_button_touch_tint">#ff777777</color>
+	
+    <color name="tabFaviconBackground">#ff212021</color>
+    <color name="tabFocusHighlight">#ff212021</color>
+	
+    <color name="qc_normal">#ff212021</color>
+    <color name="qc_selected">#ff212021</color>
+    <color name="qc_sub">#ff777777</color>
+    <color name="qc_tab_nr">#ff777777</color>
+</resources>

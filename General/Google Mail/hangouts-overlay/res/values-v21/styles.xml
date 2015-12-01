@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NotificationSecondaryText">
+        <item name="android:textColor">#fffafafa</item>
+    </style>
+    <style name="ChipTitleStyle">
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:id">@android:id/title</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:backgroundTint">@android:color/black</item>
+    </style>
+    <style name="ChipSubtitleStyle">
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:id">@android:id/text1</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:backgroundTint">@android:color/black</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.DropDownItem" parent="@android:style/TextAppearance.Small">
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:backgroundTint">@android:color/black</item>
+    </style>
+    <style name="Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="@android:style/TextAppearance.Medium">
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:backgroundTint">@android:color/black</item>
+    </style>
+    <style name="Base.Widget.AppCompat.SearchView" parent="@android:style/Widget">
+        <item name="android:background">#ff272727</item>
+        <item name="android:backgroundTint">#ff272727</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Inverse" parent="@android:style/TextAppearance.Material" />
+    <style name="Base.TextAppearance.AppCompat.Large.Inverse" parent="@android:style/TextAppearance.Material.Large" />
+    <style name="Base.TextAppearance.AppCompat.Medium.Inverse" parent="@android:style/TextAppearance.Material.Medium" />
+    <style name="Base.TextAppearance.AppCompat.Small.Inverse" parent="@android:style/TextAppearance.Material.Small" />
+    <style name="NotificationPrimaryText">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="UnifiedEmailTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:listViewWhiteStyle">@android:style/Widget.Material.ListView</item>
+    </style>
+    <style name="LabelSyncTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="GmailTheme.NoActionBar" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:colorAccent">#ffffffff</item>
+    </style>
+    <style name="GmailTheme.NoActionBar.Fullscreen" parent="@android:style/Theme.Material.NoActionBar.Fullscreen">
+        <item name="android:colorAccent">#ffffffff</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabView" parent="@android:style/Widget.Material.ActionBar.TabView" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText" parent="@android:style/Widget.Material.ActionBar.TabText" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="@android:style/Widget.Material.ActionBar.TabText" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle" />
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@android:style/Widget.Material.PopupMenu" />
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="android:textColorSecondary">#ffffffff</item>
+        <item name="android:textColorSecondaryInverse">#ffffffff</item>
+        <item name="android:textColorSecondaryInverseNoDisable">#ffffffff</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textColorTertiary">#ffffffff</item>
+        <item name="android:textColorTertiaryInverse">#ffffffff</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:editTextColor">#ffffffff</item>
+        <item name="android:colorPrimary">@android:color/darker_gray</item>
+        <item name="android:colorPrimaryDark">@android:color/darker_gray</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+</resources>

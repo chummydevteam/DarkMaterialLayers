@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Terminal's Styles-->
+
+<resources>
+    <style name="TermTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#ff212021</item>
+        <item name="android:colorPrimaryDark">#ff212021</item>
+        <item name="android:colorAccent">#ffffffff</item>
+    </style>
+    <style name="TermTheme.NoActionBar" parent="@style/TermTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+</resources>

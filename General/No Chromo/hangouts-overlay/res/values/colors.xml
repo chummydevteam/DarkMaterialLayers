@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Chrome Beta's Colors-->
+
+<resources>
+	<!--Main App Colors, Action Bar Colors, etc-->
+	<color name="default_text_color">@android:color/white</color>
+    <color name="default_primary_color">#ff212021</color>
+    <color name="incognito_primary_color">#ff505050</color>
+	
+	<!--Tab Modifiers-->
+    <color name="tab_switcher_background">@android:color/black</color>
+	<color name="tab_title_bar_text">@android:color/white</color>
+    <color name="tab_title_bar_text_incognito">@android:color/white</color>
+    <color name="tab_title_bar_shadow">#88000000</color>
+    <color name="tab_title_bar_shadow_incognito">#88000000</color>	
+	
+	<!--App Accents-->
+	<color name="light_normal_color">#ff9d9d9d</color>
+	<color name="active_control_color">#ff777777</color>
+	<color name="material_deep_teal_500">@android:color/white</color>
+    <color name="material_blue_grey_900">#ff212021</color>
+
+	<!--Main Google New Tab Background-->
+    <color name="ntp_bg">@android:color/black</color>
+    <color name="ntp_bg_incognito">#ff222222</color>
+    <color name="ntp_most_visited_text">@android:color/white</color>
+    <color name="ntp_most_visited_bg">#ff212021</color>
+    <color name="ntp_list_item_text">@android:color/white</color>
+    <color name="ntp_list_header_text">@android:color/white</color>
+    <color name="ntp_list_header_subtext">#ffeeeeee</color>
+    <color name="ntp_list_header_subtext_active">@android:color/white</color>
+    <color name="infobar_background">@android:color/black</color>	
+
+	<!--URL/Address Bar Modifiers-->
+    <color name="locationbar_default_text">@android:color/black</color>
+    <color name="locationbar_start_scheme_security_warning">#ffffb000</color>
+    <color name="locationbar_start_scheme_security_error">#ffdb4437</color>
+    <color name="locationbar_start_scheme_ev_secure">#ff1ac222</color>
+    <color name="locationbar_start_scheme_secure">#ff1ac222</color>
+    <color name="locationbar_scheme_to_domain">#ff969696</color>
+    <color name="locationbar_domain_and_registry">#ff333333</color>
+    <color name="locationbar_trailing_url">#ff969696</color>
+    <color name="locationbar_light_hint_text">#80ffffff</color>
+    <color name="locationbar_light_default_text">@android:color/white</color>
+    <color name="locationbar_light_domain_and_registry">@android:color/black</color>
+	
+    <color name="find_result_bar_background_color">#bf000000</color>
+    <color name="find_result_bar_background_border_color">#bf666666</color>
+	
+    <color name="dark_action_bar_color">#ff212021</color>
+    <color name="light_background_color">@android:color/black</color>
+	<color name="white_dialog_background_color">@android:color/black</color>
+    <color name="data_reduction_percent_color">#ff717171</color>
+    <color name="disable_pref_activity">#ff808080</color>
+	<color name="bright_foreground_material_dark">@android:color/black</color>
+
+    <color name="webapp_url_bar_bg">@android:color/black</color>
+    <color name="webapp_url_bar_separator">@android:color/black</color>
+</resources>

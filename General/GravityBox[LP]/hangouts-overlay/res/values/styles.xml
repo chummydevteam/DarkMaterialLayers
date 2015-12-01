@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing GravityBox's Styles-->
+
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Material" />
+    <style name="DialogBaseTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="AlertDialogBaseTheme" parent="@android:style/Theme.Material.Dialog.Alert" />
+    <style name="AppTheme" parent="@style/AppBaseTheme">
+        <item name="android:dialogTheme">@style/DialogStyle</item>
+        <item name="android:alertDialogTheme">@style/AlertDialogStyle</item>
+        <item name="android:colorPrimary">#ff212021</item>
+        <item name="android:colorPrimaryDark">#ff212021</item>
+        <item name="android:colorAccent">@android:color/white</item>
+    </style>
+    <style name="DialogStyle" parent="@style/DialogBaseTheme">
+        <item name="android:colorAccent">@android:color/white</item>
+    </style>
+    <style name="AlertDialogStyle" parent="@style/AlertDialogBaseTheme">
+        <item name="android:colorAccent">@android:color/white</item>
+    </style>
+    <style name="AppBaseThemeDark" parent="@android:style/Theme.Material" />
+    <style name="AppThemeDark" parent="@style/AppBaseThemeDark" />
+    <style name="AppLauncherTextView">
+        <item name="android:textSize">11.0dip</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/ripple</item>
+        <item name="android:padding">4.0dip</item>
+        <item name="android:clickable">true</item>
+        <item name="android:singleLine">true</item>
+    </style>
+</resources>

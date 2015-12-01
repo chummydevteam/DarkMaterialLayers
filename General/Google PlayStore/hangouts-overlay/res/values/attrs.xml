@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="gap" format="dimension" />
+    <attr name="star_height" format="dimension" />
+    <attr name="star_color" format="color" />
+    <attr name="star_bg_color" format="color" />
+</resources>

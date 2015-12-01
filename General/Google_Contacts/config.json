@@ -1,8 +1,0 @@
-{
-  "type": "overlay",
-  "overlay_type": "general",
-  "name": "Google Contacts",
-  "target": "com.google.android.contacts",
-  "priority": "250",
-  "auto_install": true
-}

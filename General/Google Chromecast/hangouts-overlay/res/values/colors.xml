@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Chromecast's Colors-->
+
+<resources>
+    <color name="md_grey_500">@android:color/black</color>
+    <color name="md_lightblue_500">#ff212021</color>
+    <color name="md_lightblue_700">#ff212021</color>
+    <color name="md_lightblue_900">#ff777777</color>
+</resources>

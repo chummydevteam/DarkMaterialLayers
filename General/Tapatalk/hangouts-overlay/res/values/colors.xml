@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Tapatalk's Colors-->
+
+<resources>
+    <color name="inversion">@android:color/black</color>
+    <color name="indicator">#ff777777</color>
+	
+	<color name="highlighted_text_material_dark">#66ffffff</color>
+    <color name="accent_dark">#ff212021</color>
+	
+	<!--Post click  highlight color-->
+	<color name="background_black_383e43">#66777777</color>
+
+	<color name="abs_drop_bg">@android:color/black</color>
+	<color name="background_material_dark">@android:color/black</color>
+	<color name="ics_menu_backgroud">@android:color/black</color>	
+    <color name="black_3436">@android:color/black</color>
+	<color name="background_black_2f3132">@android:color/black</color>
+	<color name="about_bg">@android:color/black</color>
+	<color name="action_mode_light_background_color">@android:color/black</color>
+	<color name="background_black_21">@android:color/black</color>
+	<color name="background_black_38">@android:color/black</color>
+	<color name="background_gray_2c">@android:color/black</color>
+	<color name="background_gray_d">@android:color/black</color>
+	<color name="background_white_d">@android:color/black</color>
+	<color name="black_2c2e">@android:color/black</color>
+	<color name="drawerlayout_menuitemback_dark">@android:color/black</color>
+	<color name="feed_filter_divice_color">@android:color/black</color>
+	<color name="forum_logobg_dark">@android:color/black</color>
+	<color name="ics_menu_noselected_dark">@android:color/black</color>
+	<color name="ics_menu_text_light">@android:color/black</color>
+	<color name="join_button_color">@android:color/black</color>
+	<color name="settings_about_button_color">@android:color/black</color>
+	<color name="text_black">@android:color/black</color> <!--This also controls attachment size text color-->
+	<color name="text_black_3b">@android:color/black</color>
+	
+	<color name="accent">@android:color/darker_gray</color>
+	<color name="background_blue_l">@android:color/darker_gray</color>
+	<color name="card_color2">@android:color/darker_gray</color>
+	<color name="material_deep_teal_200">@android:color/darker_gray</color>
+	<color name="new_ics_menu_selected">@android:color/darker_gray</color>
+	<color name="text_blue_14B6DA">@android:color/darker_gray</color>
+	<color name="trendingtopic_logocolor_blue">@android:color/darker_gray</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NormalOverlays" />
+    <string name="PluginVersion">3</string>
+    <string name="StyleSpecificOverlays" />
+    <string name="Colors" />
+    <string name="ThemeDeveloper">Aditya Gupta</string>
+    <string name="ThemeWhatsNew">v4 \n- Bug Fixes\n- 100 apps Themed :).\nHave Fun :)</string>
+    <string name="ThemeDescription">"Original Dark MaterialUI,Now for Layers :)"</string>
+    <string name="ThemeName">Dark Material</string>
+</resources>

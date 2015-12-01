@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Dropbox's Colors-->
+
+<resources>
+	<!--Dropbox 2.5.x -->	
+    <color name="actionBarBackground">#ff212021</color>
+    <color name="circle_indicator_selected">#ff212021</color>
+    <color name="lightBlueText">#ff777777</color>
+	
+	<!--Dropbox >= 2.6.x (Material Dropbox)-->	
+    <color name="dbx_primary">#ff212021</color>
+    <color name="dbx_primary_dark">#ff212021</color>
+    <color name="new_dropbox_blue">#ff212021</color>
+
+	<color name="dropbox_black">@android:color/white</color>
+	
+    <color name="dbx_black_opaque_00">#00000000</color>
+    <color name="dbx_black_opaque_10">#19000000</color>
+    <color name="dbx_black_opaque_100">#ff000000</color>
+    <color name="dbx_black_opaque_20">#33000000</color>
+    <color name="dbx_black_opaque_30">#4d000000</color>
+    <color name="dbx_black_opaque_40">#66000000</color>
+    <color name="dbx_black_opaque_50">#80000000</color>
+    <color name="dbx_black_opaque_60">#99000000</color>
+    <color name="dbx_black_opaque_70">#b3000000</color>
+    <color name="dbx_black_opaque_80">#cc000000</color>
+    <color name="dbx_black_opaque_90">#e6000000</color>	
+	
+    <color name="dbx_blue_opaque_10">#19212021</color>
+    <color name="dbx_blue_opaque_20">#33212021</color>
+    <color name="dbx_blue_opaque_30">#4d212021</color>
+    <color name="dbx_blue_opaque_40">#66212021</color>
+    <color name="dbx_blue_opaque_50">#80212021</color>
+    <color name="dbx_blue_opaque_60">#99212021</color>
+    <color name="dbx_blue_opaque_70">#b3212021</color>
+    <color name="dbx_blue_opaque_80">#cc212021</color>
+    <color name="dbx_blue_opaque_90">#e6212021</color>
+	
+	<color name="dbx_gray_opaque_00">#00212021</color>
+	<color name="dbx_gray_opaque_10">#19212021</color>
+	<color name="dbx_gray_opaque_20">#33212021</color>
+	<color name="dbx_gray_opaque_30">#4d212021</color>
+	<color name="dbx_gray_opaque_40">#66212021</color>
+	<color name="dbx_gray_opaque_50">#80212021</color>
+	<color name="dbx_gray_opaque_60">#99212021</color>
+	<color name="dbx_gray_opaque_70">#b3212021</color>
+	<color name="dbx_gray_opaque_80">#cc212021</color>
+	<color name="dbx_gray_opaque_90">#e6212021</color>
+	
+    <color name="dbx_dark_gray_opaque_10">#19777777</color>
+    <color name="dbx_dark_gray_opaque_100">#ff777777</color>
+    <color name="dbx_dark_gray_opaque_20">#33777777</color>
+    <color name="dbx_dark_gray_opaque_30">#4d777777</color>
+    <color name="dbx_dark_gray_opaque_40">#66777777</color>
+    <color name="dbx_dark_gray_opaque_50">#80777777</color>
+    <color name="dbx_dark_gray_opaque_60">#99777777</color>
+    <color name="dbx_dark_gray_opaque_70">#b3777777</color>
+    <color name="dbx_dark_gray_opaque_80">#cc777777</color>
+    <color name="dbx_dark_gray_opaque_90">#e6777777</color>
+	
+    <color name="dbx_blue_opaque_100">#ff212021</color>
+	<color name="dbx_gray_opaque_100">#ff777777</color>
+	
+	<color name="dropbox_lighter_gray">#ff212021</color>
+	<color name="dbx_status_bar_grey">#ff212021</color>
+
+	<color name="open_with_button_background">#ff212021</color>
+	<color name="open_with_button_background_pressed">#ff777777</color>
+	
+	<color name="open_with_item_recommended_background">#ff212021</color>
+	<color name="open_with_item_recommended_background_pressed">#ff777777</color>
+	
+    <color name="filelistItemFocused">#ff9d9d9d</color>
+    <color name="filelistItemPressed">#ffc3c3c3</color>
+    <color name="filelistItemSelected">#ff777777</color>
+    <color name="localFilelistBackground">#ff000000</color>
+	
+	<color name="list_cell_background_blue_ripple">#ffe1e1e1</color>
+    <color name="ripple_for_dark_views">#ffe1e1e1</color>
+    <color name="ripple_for_light_views">#80212021</color>
+	<color name="ripple_material_dark">#ffe1e1e1</color>
+	<color name="ripple_material_light">#80212021</color>
+	
+	<color name="pressed_highlight_for_dark_views">#4a777777</color>
+	<color name="pressed_highlight_for_light_gray_views">#4a777777</color>
+	<color name="pressed_highlight_for_light_views">#4a777777</color>
+	
+	<color name="whiteBackground">#ff000000</color>
+</resources>

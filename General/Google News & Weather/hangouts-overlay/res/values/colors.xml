@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google News & Weather's Colors-->
+
+<resources>
+	<color name="background_color_dark">#ff212021</color>
+    <color name="foreground_color_dark">@android:color/black</color>
+    <color name="background_floating_material_dark">@android:color/black</color>
+</resources>

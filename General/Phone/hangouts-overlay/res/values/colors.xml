@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Phone's Colors-->
+
+<resources>
+    <color name="dialer_theme_color">@android:color/white</color>
+    <color name="dialer_theme_color_dark">#ff212021</color>
+	
+    <color name="background_dialpad">@android:color/black</color>
+	
+    <color name="dialpad_secondary_text_color">#acffffff</color>
+    <color name="dialpad_digits_text_color">#ff777777</color>
+	<color name="dialpad_icon_tint">#ff777777</color>
+    <color name="dialpad_voicemail_tint">#ff777777</color>
+	
+    <color name="settings_theme_primary">#ff212021</color>
+    <color name="settings_theme_primary_dark">#ff212021</color>
+	
+	<color name="phone_settings_background_color">@android:color/black</color>
+	
+	<color name="network_operators_color_primary">#ff212021</color>
+    <color name="network_operators_color_primary_dark">#ff212021</color>
+</resources>
