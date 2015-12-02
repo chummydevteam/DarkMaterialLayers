@@ -2,15 +2,15 @@
 <!--You are editing Chrome's Styles-->
 
 <resources>
-    <style name="Platform.AppCompat" parent="@android:style/Theme.Material" />
-    <style name="Platform.AppCompat.Light.Dialog" parent="@android:style/Theme.Material.Dialog" />
     <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
-        <item name="android:colorBackground">#ff212021</item>
-        <item name="android:windowBackground">@android:color/darker_gray</item>
-        <item name="android:windowNoTitle">true</item>
-        <item name="android:popupBackground">#ff212021</item>
-        <item name="android:windowActionBar">false</item>
-        <item name="android:textColorHint">#ff777777</item>
-        <item name="android:navigationBarColor">?android:statusBarColor</item>
+    <item name="android:colorBackground">#ff212021</item>
+    <item name="android:windowBackground">@android:color/black</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:popupBackground">#ff212021</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="android:navigationBarColor">?android:statusBarColor</item>
+</style>
+    <style name="PreferencesDialogTheme" parent="@android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">#ff777777</item>
     </style>
 </resources>

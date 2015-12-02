@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing V4A's Colors-->
+
+<resources>
+    <color name="white">@android:color/white</color>
+    <color name="off_white">#ffeeeeee</color>
+    <color name="black">@android:color/black</color>
+    <color name="grid_lines">#4affffff</color>
+
+    <color name="cb">#88777777</color>
+    <color name="freq_hl">#20777777</color>
+    <color name="freq_hl2">#40777777</color>	
+	
+    <color name="eq_holo_bright">#aa777777</color>
+    <color name="eq_holo_blue">#aa6a6a6a</color>
+    <color name="eq_holo_dark">#aa5e5e5e</color>
+	
+    <color name="cb_shader">#ffc3c3c3</color>
+    <color name="cb_shader_alpha">#44c3c3c3</color>
+</resources>

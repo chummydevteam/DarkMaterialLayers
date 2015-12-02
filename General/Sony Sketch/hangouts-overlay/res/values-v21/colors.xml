@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing SonyMobile Sketch's Colors-->
+
+<resources>
+    <color name="bottom_sheet_fragment_text">@android:color/black</color>
+</resources>

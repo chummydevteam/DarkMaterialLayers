@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing MultiROM's Styles-->
+
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorAccent">@android:color/darker_gray</item>
+        <item name="android:textColor">#ff777777</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat" parent="@android:style/Theme.Material" />
+    <style name="Platform.AppCompat" parent="@android:style/Theme.Material" />
+	<style name="Platform.AppCompat.Dialog" parent="@android:style/Theme.Material.Dialog" />
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing TextSecure's Colors-->
+
+<resources>
+    <color name="md_material_blue_600">#ff212021</color>
+    <color name="md_material_blue_800">#ff212021</color>
+
+    <color name="textsecure_holo_blue_light">#ffeeeeee</color>
+    <color name="textsecure_primary">#ff212021</color>
+    <color name="textsecure_primary_dark">#ff212021</color>
+</resources>

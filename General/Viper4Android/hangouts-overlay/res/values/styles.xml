@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing V4A's Styles-->
+
+<resources>
+	<!--Forcing V4A to use Theme.Material Design Regardless of Version-->
+		<style name="AppTheme" parent="@android:style/Theme.Material" />
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Arcus' Colors-->
+
+<resources>
+    <color name="blk60">#ffeeeeee</color>
+    <color name="blk80">@android:color/white</color>
+    <color name="home_background">#ff000000</color>
+    <color name="wht">#ff212021</color>
+</resources>

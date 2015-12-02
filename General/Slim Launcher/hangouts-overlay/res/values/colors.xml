@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Slim Launcher's Colors-->
+
+<resources>
+	<color name="all_apps_grid_section_text_color">@android:color/white</color>
+    <color name="all_apps_search_market_button_focused_bg_color">#ff212021</color>
+	<color name="container_fastscroll_thumb_inactive_color">#ff212021</color>
+    <color name="container_fastscroll_thumb_active_color">#ff212021</color>
+	<color name="quantum_panel_bg_color">#80000000</color>
+	<color name="quantum_panel_bg_color_dark">#ff212021</color>
+    <color name="quantum_panel_text_color">@android:color/white</color>
+    <color name="quantum_panel_text_shadow_color">#ff777777</color>
+	<color name="widgets_view_section_text_color">@android:color/white</color>
+    <color name="widgets_view_item_text_color">@android:color/white</color>
+    <color name="widgets_cell_color">#ff212021</color>
+</resources>

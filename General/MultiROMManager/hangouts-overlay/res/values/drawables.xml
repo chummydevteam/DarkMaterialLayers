@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing MultiROM's Drawables-->
+
+<resources>
+    <item type="drawable" name="dark_blue">#ff212021</item>
+    <item type="drawable" name="gray">@android:color/black</item>
+    <item type="drawable" name="light_blue">@android:color/black</item>
+    <item type="drawable" name="light_gray">@android:color/black</item>
+    <item type="drawable" name="light_gray_text">@android:color/black</item>
+    <item type="drawable" name="transparent">@android:color/transparent</item>
+</resources>

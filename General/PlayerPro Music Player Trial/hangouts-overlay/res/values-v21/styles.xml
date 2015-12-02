@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing PlayerPro's Styles-->
+
+<resources>
+    <style name="NotificationContent" parent="@android:style/TextAppearance.Small.Inverse">
+		<item name="android:textColor">#ffffff</item>
+	</style>
+    <style name="NotificationContentText" parent="@android:style/TextAppearance.Small.Inverse">
+		<item name="android:textColor">#ffffff</item>
+	</style>
+    <style name="NotificationContentTextInverse" parent="@android:style/TextAppearance.Small">
+		<item name="android:textColor">#ffffff</item>
+	</style>
+    <style name="NotificationTitle" parent="@android:style/TextAppearance.Medium.Inverse">
+		<item name="android:textColor">#ffffff</item>
+	</style>
+    <style name="NotificationTitleText" parent="@android:style/TextAppearance.Medium.Inverse">
+		<item name="android:textColor">#ffffff</item>
+	</style>
+    <style name="NotificationTitleTextInverse" parent="@android:style/TextAppearance.Medium">
+		<item name="android:textColor">#ffffff</item>
+	</style>
+</resources>

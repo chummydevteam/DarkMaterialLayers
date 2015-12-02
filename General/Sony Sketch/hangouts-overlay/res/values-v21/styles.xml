@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing SonyMobile Sketch's Styles-->
+
+<resources>
+    <style name="SketchText.Head" parent="@android:style/TextAppearance.Material.Subhead">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">18.0sp</item>
+    </style>
+</resources>

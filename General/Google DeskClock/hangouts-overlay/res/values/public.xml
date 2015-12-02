@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="transparent_black" id="0x7f020000" />
+    <public type="color" name="black" id="0x7f020001" />
+    <public type="color" name="black_87p" id="0x7f020002" />
+    <public type="color" name="black_54p" id="0x7f020003" />
+    <public type="color" name="black_16p" id="0x7f020004" />
+    <public type="color" name="clock_gray" id="0x7f020005" />
+    <public type="color" name="abc_search_url_text_selected" id="0x7f020006" />
+    <public type="color" name="abc_search_url_text_pressed" id="0x7f020007" />
+    <public type="color" name="abc_input_method_navigation_guard" id="0x7f020008" />
+    <public type="color" name="primary_text_default_material_light" id="0x7f020009" />
+    <public type="color" name="secondary_text_default_material_light" id="0x7f02000a" />
+    <public type="color" name="primary_text_disabled_material_light" id="0x7f02000b" />
+    <public type="color" name="secondary_text_disabled_material_light" id="0x7f02000c" />
+    <public type="color" name="control_highlight_color" id="0x7f02000d" />
+    <public type="color" name="notification_divider" id="0x7f02000e" />
+    <public type="style" name="Platform.AppCompat.Light" id="0x7f030000" />
+    <public type="style" name="Platform.AppCompat" id="0x7f030001" />
+</resources>

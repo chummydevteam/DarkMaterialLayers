@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Kik's Colors-->
+
+<resources>
+    <color name="chat_background_color">@android:color/black</color>
+    <color name="chat_info_background">@android:color/black</color>
+	
+    <color name="recent_header_background">@android:color/black</color>
+    <color name="recent_header_title">@android:color/white</color>
+
+    <color name="new_topbar_green">#ff212021</color>
+    <color name="status_bar_green">#ff212021</color>
+    <color name="status_bar_grey">@android:color/black</color>
+    <color name="top_bar_green">#ff212021</color>
+</resources>

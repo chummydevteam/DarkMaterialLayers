@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent_black">#7fffffff</color>
+    <color name="black">#ffffffff</color>
+    <color name="black_87p">#deffffff</color>
+    <color name="black_54p">#8affffff</color>
+    <color name="black_16p">#28ffffff</color>
+    <color name="clock_gray">#b3ffffff</color>
+    <color name="abc_search_url_text_selected">@android:color/white</color>
+    <color name="abc_search_url_text_pressed">@android:color/white</color>
+    <color name="abc_input_method_navigation_guard">@android:color/white</color>
+    <color name="primary_text_default_material_light">#deffffff</color>
+    <color name="secondary_text_default_material_light">#8affffff</color>
+    <color name="primary_text_disabled_material_light">#39ffffff</color>
+    <color name="secondary_text_disabled_material_light">#24ffffff</color>
+    <color name="deskclock_color">@android:color/black</color>
+    <color name="clock_white">@android:color/white</color>
+    <color name="white">@android:color/white</color>
+    <color name="blue_focused">#ffc1e8f7</color>
+    <color name="neutral_pressed">#33999999</color>
+    <color name="done_text_color_normal">@android:color/white</color>
+    <color name="done_text_color_disabled">#ffcccccc</color>
+    <color name="bright_foreground_light_disabled">#80ffffff</color>
+    <color name="default_background">@android:color/black</color>
+    <color name="status_bar">@android:color/transparent</color>
+    <color name="time_picker_gray">#ff212021</color>
+</resources>

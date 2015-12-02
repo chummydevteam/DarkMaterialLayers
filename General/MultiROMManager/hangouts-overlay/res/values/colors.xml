@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing MultiROM's Colors-->
+
+<resources>
+    <color name="accent">#ffff4d4d</color>
+    <color name="background_floating_material_dark">@android:color/black</color>
+    <color name="background_floating_material_light">@android:color/black</color>
+    <color name="background_material_dark">@android:color/black</color>
+    <color name="background_material_light">@android:color/black</color>
+</resources>

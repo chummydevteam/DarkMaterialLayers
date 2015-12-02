@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Delayed Lock's Colors-->
+
+<resources>
+    <color name="common_action_bar_splitter">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">@android:color/white</color>
+    <color name="common_signin_btn_light_text_default">@android:color/white</color>
+    <color name="common_signin_btn_light_text_disabled">@android:color/white</color>
+    <color name="common_signin_btn_light_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+	
+    <color name="default_circle_indicator_fill_color">@android:color/white</color>
+    <color name="default_circle_indicator_page_color">@android:color/white</color>
+    <color name="default_circle_indicator_stroke_color">@android:color/white</color>
+    <color name="default_line_indicator_selected_color">@android:color/white</color>
+    <color name="default_line_indicator_unselected_color">@android:color/white</color>
+    <color name="default_title_indicator_footer_color">@android:color/white</color>
+    <color name="default_title_indicator_selected_color">@android:color/white</color>
+    <color name="default_title_indicator_text_color">#bbffffff</color>
+    <color name="default_underline_indicator_selected_color">@android:color/white</color>
+	
+    <color name="vpi__background_holo_dark">#ffffff00</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">@android:color/white</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">@android:color/white</color>
+
+</resources>

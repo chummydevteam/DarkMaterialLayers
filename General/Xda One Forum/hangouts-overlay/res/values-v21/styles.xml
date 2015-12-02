@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing XDA One's Styles-->
+
+<resources>
+    <style name="Theme.One" parent="@android:style/Theme.Material.Light.DarkActionBar" />
+</resources>
