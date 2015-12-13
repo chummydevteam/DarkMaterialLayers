@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navigationDrawerBackground">#ff000000</color>
+    <color name="textColorPrimary">#fffafafa</color>
+    <color name="textColorSecondary">#ffdddddd</color>
+    <color name="card_background">#ff212021</color>
+    <color name="background">#ff000000</color>
+</resources>

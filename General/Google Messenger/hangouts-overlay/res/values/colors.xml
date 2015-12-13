@@ -39,36 +39,24 @@
     <color name="contact_picker_tab_pressed">#ddffffff</color>
     <color name="contact_picker_tab_normal">#90ffffff</color>
     <color name="emoji_category_page_id_view_background">#cc1a1a1a</color>
-
-
-
-
-
-
     <color name="accent">@android:color/white</color>
     <color name="accent_material_light">@android:color/white</color>
     <color name="accent_material_dark">@android:color/white</color>
-
     <color name="material_deep_teal_200">@android:color/white</color>
     <color name="material_deep_teal_500">@android:color/white</color>
     <color name="material_blue_grey_800">@android:color/white</color>
     <color name="material_blue_grey_900">@android:color/white</color>
-
     <color name="action_bar_background_color">#ff212021</color>
     <color name="action_bar_background_color_dark">#ff212021</color>
     <color name="archived_conversation_action_bar_background_color">#ff212021</color>
     <color name="archived_conversation_action_bar_background_color_dark">#ff212021</color>
     <color name="compose_notification_bar_background">#ff212021</color>
-
     <color name="conversation_background">@android:color/black</color>
     <color name="gallery_image_default_background">@android:color/black</color>
-
     <color name="contact_list_text_primary">@android:color/white</color>
     <color name="participant_list_text_primary">@android:color/white</color>
     <color name="contact_picker_background">@android:color/black</color>
-
     <color name="group_mms_setting_text_color">@android:color/white</color>
-
     <color name="compose_message_send_color">#ff777777</color>
     <color name="fab_color">#ff212021</color>
     <color name="fab_shadow_color">@android:color/black</color>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.lovejoy777.rroandlayersmanager.overlay" platformBuildVersionCode="22" platformBuildVersionName="5.1.1-1819727">
+    <overlay android:priority="100" android:targetPackage="com.lovejoy777.rroandlayersmanager"/>
+    <meta-data android:name="rom" android:value="Purity"/>
+    <meta-data android:name="infoShort" android:value="Eixium theme"/>
+    <meta-data android:name="infoLong" android:value="This will change theme phone to Elixium theme"/>
+    <meta-data android:name="author" android:value="Aditya"/>
+</manifest>
