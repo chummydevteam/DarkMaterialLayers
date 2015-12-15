@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="Widget.Material.ActionBar.Solid" parent="@android:style/Widget.Material.ActionBar">
+        <item name="android:background">?android:colorPrimary</item>
+        <item name="android:backgroundStacked">?android:colorPrimary</item>
+        <item name="android:backgroundSplit">?android:colorPrimary</item>
+        <item name="android:backgroundTint">?android:colorPrimary</item>
+    </style>
     <style name="Theme.DeviceDefault.Resolver" parent="@android:style/Theme.Material.Panel">
-        <item name="android:backgroundTint">#ff212021</item>
-        <item name="windowBackground">@color/exposed_resolver_list_bg</item>
+        <item name="android:backgroundTint">#cc000000</item>
+        <item name="windowBackground">@android:color/transparent</item>
         <item name="windowNoTitle">true</item>
         <item name="windowIsTranslucent">true</item>
         <item name="windowContentOverlay">@null</item>
@@ -10,5 +16,11 @@
         <item name="windowTranslucentStatus">false</item>
         <item name="windowTranslucentNavigation">false</item>
         <item name="windowDrawsSystemBarBackgrounds">false</item>
+    </style>
+    <style name="Widget.DeviceDefault.Light.PopupWindow" parent="@android:style/Widget.Material.PopupWindow">
+        <item name="android:colorBackground">@android:color/black</item>
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="android:textColorSecondary">#ffdddddd</item>
+        <item name="android:textColor">#ffffffff</item>
     </style>
 </resources>

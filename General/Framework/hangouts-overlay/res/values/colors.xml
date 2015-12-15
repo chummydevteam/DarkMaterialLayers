@@ -3,8 +3,8 @@
     <!--Highlight text colors depending on style chosen-->
     <color name="highlighted_text_material_light">#66777777</color>
     <color name="highlighted_text_material_dark">#66777777</color>
-
     <!--System-wide changes to colors in Theme.Holo Styles-->
+    <color name="holo_red_dark">#ff212021</color>
     <color name="holo_blue_dark">#ffaaaaaa</color>
     <color name="holo_blue_light">#ffaaaaaa</color>
     <color name="holo_blue_bright">#ffaaaaaa</color>
@@ -39,8 +39,6 @@
     <!--Fragment integrated DatePickers-->
     <color name="datepicker_default_selected_text_color_holo_light">#ffaaaaaa</color>
     <color name="datepicker_default_selected_text_color_holo_dark">#ffaaaaaa</color>
-    <color name="datepicker_default_selected_text_color_material_light">#ffaaaaaa</color>
-    <color name="datepicker_default_selected_text_color_material_dark">#ffaaaaaa</color>
 
     <!--System-wide changes to colors in Theme.Material Styles-->
     <color name="background_material_dark">@android:color/black</color>
@@ -92,4 +90,22 @@
     <color name="exposed_TextAppearance.EasyCorrectSuggestion">#ffaeaeae</color>
     <color name="exposed_Widget.Material.Light.Button_TS">@android:color/white</color>
 
-</resources>
+
+
+    <color name="notification_mtrl_action_textcolor">#ffffffff</color>
+    <color name="exposed_primary_text_dark">#ffffffff</color>
+    <color name="exposed_secondary_text_dark">#fffafafa</color>
+    <color name="micro_text_light">#ffdddddd</color>
+    <color name="datepicker_default_header_dayofweek_background_color_material_light">#ffffffff</color>
+    <color name="datepicker_default_normal_text_color_material_light">#ffffffff</color>
+    <color name="datepicker_default_disabled_text_color_material_light">#80ffffff</color>
+    <color name="datepicker_default_disabled_text_color_material_dark">#80ffffff</color>
+    <color name="datepicker_default_selected_text_color_material_light">#ffbbbbbb</color>
+    <color name="datepicker_default_selected_text_color_material_dark">#ffbbbbbb</color>
+    <color name="datepicker_default_pressed_text_color_material_light">#ffaaaaaa</color>
+    <color name="datepicker_default_pressed_text_color_material_dark">#ffaaaaaa</color>
+    <color name="datepicker_default_circle_background_color_material_light">#ffffffff</color>
+    <color name="datepicker_default_circle_background_color_material_dark">#ffffffff</color>
+    <color name="datepicker_default_view_animator_color_material_light">#ff21272b</color>
+    <color name="datepicker_default_view_animator_color_material_dark">#ff21272b</color>
+    </resources>

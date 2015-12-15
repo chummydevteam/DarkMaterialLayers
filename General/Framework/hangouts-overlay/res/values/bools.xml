@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <bool name="abc_action_bar_embed_tabs">false</bool>
-    <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
-    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">true</bool>
+    <bool name="config_invert_colors_on_doze">false</bool>
 </resources>
