@@ -8,8 +8,8 @@ android {
         applicationId "com.chummy.darkmaterial_layers"
         minSdkVersion 21
         targetSdkVersion 22
-        versionCode 14
-        versionName "4.4"
+        versionCode 16
+        versionName "4.6"
     }
     buildTypes {
         release {

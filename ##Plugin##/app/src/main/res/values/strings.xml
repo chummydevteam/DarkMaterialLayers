@@ -5,7 +5,7 @@
     <string name="StyleSpecificOverlays" />
     <string name="Colors" />
     <string name="ThemeDeveloper">Aditya Gupta</string>
-    <string name="ThemeWhatsNew">v4.4 \n- Bug Fixes\n- 120 apps Themed :).\nHave Fun :)\n- Added Layers Manager\n- SystemUI Changed :)</string>
+    <string name="ThemeWhatsNew">v4.6 \n- Bug Fixes\n- More than 120 apps Themed :).\nHave Fun :)\n- Added Layers Manager\n- SystemUI Changed :)</string>
     <string name="ThemeDescription">"Original Dark MaterialUI,Now for Layers :)"</string>
     <string name="ThemeName">Dark Material</string>
 </resources>
