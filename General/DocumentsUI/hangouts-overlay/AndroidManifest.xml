@@ -2,6 +2,7 @@
     package="com.android.documentsui.darkmaterial"
     android:versionCode="1"
     android:versionName="1.0" >
+    <uses-sdk android:minSdkVersion="21"></uses-sdk>
 <!--
 Targeting the right packageName of the 'target.apk' here!  
 We can find the real packageName in the AndroidManifest.xml of original target.apk!

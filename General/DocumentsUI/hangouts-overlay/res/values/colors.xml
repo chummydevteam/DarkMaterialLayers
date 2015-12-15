@@ -2,12 +2,7 @@
 <!--You are editing DocumentsUI's Colors-->
 
 <resources>
-	<color name="material_grey_50">@android:color/black</color>
-    <color name="material_grey_300">#ff1f1f1f</color>
-
-	<color name="item_doc_grid_background">@color/material_grey_300</color>
-    <color name="item_doc_grid_protect_background">#88000000</color>
-    <color name="item_doc_grid_overlay_activated">#88000000</color>
-    <color name="item_doc_grid_overlay_disabled">#88ffffff</color>
-    <color name="item_doc_list_overlay_disabled">#88ffffff</color>
+    <color name="material_grey_50">#ff000000</color>
+    <color name="material_grey_300">#ff212021</color>
+    <color name="item_doc_grid_background">#ff000000</color>
 </resources>

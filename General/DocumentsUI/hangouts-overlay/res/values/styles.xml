@@ -7,7 +7,7 @@
         <item name="android:textColorSecondary">#fffafafa</item>
     </style>
     <style name="DocumentsTheme" parent="@style/DialogWhenReallyLarge">
-        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:colorBackground">#ff000000</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:listDivider">@android:color/transparent</item>
         <item name="android:windowSoftInputMode">adjustUnspecified|stateUnspecified</item>
@@ -18,7 +18,7 @@
         <item name="android:colorPrimary">#ff212021</item>
         <item name="android:colorPrimaryDark">#ff212021</item>
         <item name="android:colorAccent">#ff777777</item>
-        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:navigationBarColor">#ff000000</item>
         <item name="android:actionBarPopupTheme">@android:style/ThemeOverlay.Material.Light</item>
     </style>
 </resources>
