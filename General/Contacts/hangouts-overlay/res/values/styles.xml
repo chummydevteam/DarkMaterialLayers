@@ -1,41 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="DetailActivityTheme" parent="@android:style/Theme.Material">
-        <item name="android:textColor">#ffffffff</item>
-    </style>
-    <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material" />
-    <style name="PeopleTheme1" parent="@android:style/Theme.Material.NoActionBar">
-        <item name="android:textColorPrimary">#eeeeeeee</item>
-        <item name="android:textColorSecondary">#fff5f5f5</item>
-        <item name="android:alertDialogTheme">@style/ContactsAlertDialogTheme</item>
-    </style>
-    <style name="NonPhoneDialogTheme" parent="@android:style/Theme.Material.Dialog" />
-    <style name="ConfirmAddDetailDialogTheme" parent="@android:style/Theme.Material.Dialog.MinWidth" />
-    <style name="ContactEditorAccountsChangedActivityTheme" parent="@android:style/Theme.Material.Dialog.NoActionBar.MinWidth" />
-    <style name="ContactsAlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
+    <style name="PeopleTheme1" parent="@android:style/Theme.Material">
+        <item name="android:colorForeground">#ffffffff</item>
         <item name="android:colorBackground">#ff000000</item>
+        <item name="android:textColorPrimary">#fffafafa</item>
+        <item name="android:textColorSecondary">#ffe0e0e0</item>
+        <item name="android:colorControlActivated">#ff212021</item>
+        <item name="android:colorPrimary">#ff212021</item>
+        <item name="android:colorPrimaryDark">#ff212021</item>
+        <item name="android:colorAccent">@android:color/darker_gray</item>
+        <item name="android:navigationBarColor">#ff000000</item>
     </style>
-    <style name="ContactsActionBarTheme" parent="@android:style/Theme.Material">
-        <item name="android:textColor">#ffffffff</item>
-        <item name="android:textColorHint">#ffcccccc</item>
-        <item name="android:popupMenuStyle">@android:style/Widget.Material.PopupMenu</item>
-    </style>
-    <style name="ContactsActionBarDropDownStyle" parent="@android:style/Widget.Holo.Spinner" />
-    <style name="SelectableItem" parent="@android:style/Theme.Material" />
-    <style name="Theme.PhotoSelector" parent="@android:style/Theme.Material" />
-    <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
-        <item name="android:textSize">16.0sp</item>
-        <item name="android:textColor">#ffffffff</item>
+    <style name="PeopleTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorForeground">#ffffffff</item>
+        <item name="android:colorBackground">#ff000000</item>
+        <item name="android:textColorPrimary">#fffafafa</item>
+        <item name="android:textColorSecondary">#ffe0e0e0</item>
+        <item name="android:colorControlActivated">#ff212021</item>
+        <item name="android:colorPrimary">#ff212021</item>
+        <item name="android:colorPrimaryDark">#ff212021</item>
+        <item name="android:colorAccent">@android:color/darker_gray</item>
+        <item name="android:navigationBarColor">#ff000000</item>
     </style>
     <style name="CardView">
         <item name="android:textColor">#ffffffff</item>
     </style>
-    <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
-        <item name="android:textSize">14.0sp</item>
-        <item name="android:textColor">#ffeeeeee</item>
-    </style>
-    <style name="ListViewStyle" parent="@android:style/Widget.Material.ListView">
+    <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16.0sp</item>
         <item name="android:textColor">#ffffffff</item>
     </style>
-    <style name="ContactListFilterTheme" parent="@android:style/Theme.Material" />
+    <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffe0e0e0</item>
+    </style>
+    <style name="ListViewStyle" parent="@android:style/Widget.Material.ListView">
+        <item name="android:overScrollMode">always</item>
+    </style>
+    <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowNoDisplay">false</item>
+    </style>
+    <style name="DetailActivityTheme" parent="@android:style/Theme.Material" />
+    <style name="ContactsActionBarOverflow" parent="@android:style/Widget.Material.ActionButton.Overflow" />
+    <style name="ContactsActionBarOverflowQP" parent="@android:style/Widget.Material.ActionButton.Overflow" />
+    <style name="ContactsActionBarDropDownStyle" parent="@android:style/Widget.Material.Spinner" />
+    <style name="ContactsActionBarTheme" parent="@android:style/Theme.Material">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:popupMenuStyle">@android:style/Widget.Material.PopupMenu</item>
+    </style>
+    <style name="NonPhoneDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+    <style name="ConfirmAddDetailDialogTheme" parent="@android:style/Theme.Material.Dialog.MinWidth" />
+    <style name="ContactEditorAccountsChangedActivityTheme" parent="@android:style/Theme.Material.Dialog.NoActionBar.MinWidth" />
+    <style name="SelectableItem" parent="@android:style/Theme.Material" />
+    <style name="Theme.PhotoSelector" parent="@android:style/Theme.Material" />
+    <style name="ContactsAlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorAccent">@android:color/darker_gray</item>
+    </style>
 </resources>
