@@ -81,8 +81,8 @@
         <item name="android:textColorTertiaryInverse">#ffffffff</item>
         <item name="android:windowActionBar">false</item>
         <item name="android:editTextColor">#ffffffff</item>
-        <item name="android:colorPrimary">@android:color/darker_gray</item>
-        <item name="android:colorPrimaryDark">@android:color/darker_gray</item>
+        <item name="android:colorPrimary">@android:color/holo_red_dark</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_red_dark</item>
         <item name="android:navigationBarColor">@android:color/black</item>
     </style>
 </resources>
