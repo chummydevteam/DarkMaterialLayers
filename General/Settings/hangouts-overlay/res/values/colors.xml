@@ -3,8 +3,8 @@
 
 <resources>			
 	<!-- Edits the background in settings-->
-		<color name="dashboard_background_color">#ff212021</color>
-     	<color name="dashboard_category_background_color">#ff212021</color>
+		<color name="dashboard_background_color">#ff000000</color>
+     	<color name="dashboard_category_background_color">#ff000000</color>
 
 	<!--Toggle background color-->
 		<color name="switchbar_background_color">#ff373737</color>

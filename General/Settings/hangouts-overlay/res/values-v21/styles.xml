@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material">
-        <item name="android:colorForeground">#fffafafa</item>
-        <item name="android:windowBackground">@android:color/black</item>
-        <item name="android:colorPrimaryDark">#ff21272b</item>
-        <item name="android:statusBarColor">#ff21272b</item>
-    </style>
-</resources>
