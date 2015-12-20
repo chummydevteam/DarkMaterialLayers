@@ -2,10 +2,12 @@
 <!--You are editing Google Play Games' Styles-->
 
 <resources>
+
     <style name="Games.TextAppearance" parent="@android:style/TextAppearance" />
     <style name="Games.TextAppearance.ListItemClientSettingsName" parent="@style/Games.TextAppearance">
         <item name="android:textAppearance">?android:textAppearanceLarge</item>
         <item name="android:textSize">20.0sp</item>
         <item name="android:textColor">@android:color/white</item>
     </style>
+
 </resources>
