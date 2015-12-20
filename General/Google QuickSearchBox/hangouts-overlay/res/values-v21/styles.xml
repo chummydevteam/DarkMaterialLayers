@@ -6,7 +6,7 @@
         <item name="android:textSize">18.0sp</item>
         <item name="android:textStyle">bold|italic</item>
     </style>
-	<style name="Theme.Shim.Light" parent="@android:style/Theme.Material" />
+    <style name="Theme.Shim.Light" parent="@android:style/Theme.Material" />
     <style name="Theme.Shim.Light.NoActionBar" parent="@android:style/Theme.Material.NoActionBar" />
     <style name="Theme.Shim.Light.Dialog" parent="@android:style/Theme.Material.Dialog" />
     <style name="Widget.Shim.Light.ActionBar" parent="@android:style/Widget.Material.ActionBar" />

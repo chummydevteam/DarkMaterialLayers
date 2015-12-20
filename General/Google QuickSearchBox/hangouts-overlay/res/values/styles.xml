@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--You are editing Google Search's Styles-->
 
-<resources>    
-	<style name="AccountsSwitcher" />
+<resources>
+    <style name="AccountsSwitcher" />
     <style name="AccountsSwitcher.AccountDisplayNameStyle" parent="@style/AccountsSwitcher">
         <item name="android:textSize">18.0sp</item>
         <item name="android:textStyle">bold|italic</item>
     </style>
-	<style name="qp_icon_no_tint">
-        <item name="android:layout_width">24.0dip</item>
-        <item name="android:layout_height">24.0dip</item>
-    </style>
-	<style name="qp_icon" parent="@style/qp_icon_no_tint">
+    <style name="qp_grey_icon" parent="@style/qp_icon_no_tint">
         <item name="android:tint">@android:color/white</item>
         <item name="android:alpha">1.0</item>
     </style>
+    <style name="qp_icon" parent="@style/qp_icon_no_tint">
+        <item name="android:tint">@android:color/white</item>
+        <item name="android:alpha">1.0</item>
+    </style>
+    <style name="qp_icon_no_tint">
+        <item name="android:layout_width">@dimen/qp_action_icon_size</item>
+        <item name="android:layout_height">@dimen/qp_action_icon_size</item>
+    </style>
     <style name="RecurrenceTextAppearance" parent="@android:style/TextAppearance" />
     <style name="RecurrenceTextAppearance.RecurrencePickerStyle" parent="@style/RecurrenceTextAppearance">
-        <item name="android:textColor">#ff777777</item>
+        <item name="android:textColor">#ff212021</item>
         <item name="android:textSize">15.0sp</item>
     </style>
 </resources>
