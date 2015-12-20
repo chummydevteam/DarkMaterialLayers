@@ -1,0 +1,17 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.systemui.darkmaterialsunrise"
+    android:versionCode="1"
+    android:versionName="1.0" >
+<!--
+Targeting the right packageName of the 'target.apk' here!  
+We can find the real packageName in the AndroidManifest.xml of original target.apk!
+So the matching resources id can be set in accordance.
+-->
+<overlay android:targetPackage="com.android.systemui" android:priority="90"/>
+
+    <meta-data android:name="rom" android:value="Frank 10.5" />
+    <meta-data android:name="infoShort" android:value="Hangouts theme" />
+    <meta-data android:name="infoLong" android:value="This will change theme hangouts to a red theme" />
+    <meta-data android:name="author" android:value="bgill55" />
+  
+</manifest>
