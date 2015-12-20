@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Google Photos' Colors-->
+
+<resources>
+    <color name="default_bg">#ff000000</color> <!--This universally controls the backgroundTint-->
+    <color name="photo_loading_background">@android:color/black</color>
+    <color name="cardview_light_background">@android:color/black</color>
+    <color name="photos_allphotos_ui_row_background">#ff000000</color>
+
+    <color name="mm_white">#ff000000</color>
+    <color name="mm_dark_gray">@android:color/white</color>
+    <color name="mm_darker_gray">@android:color/white</color>
+    <color name="mm_darkest_gray">#ff777777</color>
+
+    <color name="fastscroll_label_background">#ff212021</color>
+    <color name="fastscroll_label_text">@android:color/white</color>
+
+    <color name="material_grey_300">#ff212021</color>
+    <color name="material_grey_600">@android:color/white</color>
+    <color name="material_grey_900">@android:color/white</color>
+
+    <color name="text_gray">@android:color/white</color>
+
+    <color name="text_black_26_percent">#42ffffff</color>
+    <color name="text_black_54_percent">#89ffffff</color>
+    <color name="text_black_87_percent">#ddffffff</color>
+
+    <color name="quantum_black_text">@android:color/white</color>
+    <color name="quantum_black_secondary_text">#89ffffff</color>
+    <color name="quantum_black_hint_text">#61ffffff</color>
+    <color name="quantum_black_divider">#1fffffff</color>
+
+    <color name="quantum_white_100">#ff000000</color>
+
+    <color name="quantum_googblue700">#ff777777</color> <!--Ripple color for Fab-->
+
+    <color name="quantum_cyan800">#ff212021</color> <!--Collection card background-->
+
+    <color name="quantum_grey200">@android:color/black</color>
+    <color name="quantum_grey300">#ff212021</color>
+    <color name="quantum_grey600">@android:color/white</color> <!--Inversion-->
+    <color name="quantum_grey900">@android:color/white</color>
+</resources>
