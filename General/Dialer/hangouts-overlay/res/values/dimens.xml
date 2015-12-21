@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Dialer's Dimensions-->
+
+<resources>
+	<dimen name="action_bar_height">56dp</dimen>
+	<dimen name="action_bar_elevation">2dp</dimen>
+	<dimen name="actionbar_contentInsetStart">72dp</dimen>
+	<dimen name="contact_browser_list_item_gap_between_image_and_text">15.0dip</dimen>
+    <dimen name="contact_browser_list_item_photo_size">40.0dip</dimen>
+    <dimen name="contact_browser_list_item_text_indent">8.0dip</dimen>
+</resources>

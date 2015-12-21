@@ -11,7 +11,7 @@
     <color name="lockscreen_answer_tint">#4a00b300</color>
     <color name="lockscreen_decline_tint">#4ab30000</color>
     <color name="lockscreen_messages_tint">#4affffff</color>
-	
+
 	<color name="actionbar_text_color">#ffffffff</color>
     <color name="actionbar_icon_color">#ffffffff</color>
     <color name="actionbar_background_color">#ff212021</color>
@@ -52,10 +52,10 @@
     <color name="secondary_header_separator_color">#ff111111</color>
     <color name="favorite_contacts_separator_color">#ff000000</color>
 
-	<color name="button_default_color">#ff515151</color>	
+	<color name="button_default_color">#ff515151</color>
     <color name="button_selected_color">#ff9d9d9d</color>
     <color name="dialer_dialpad_touch_tint">#4affffff</color>
-    <color name="item_selected">#66777777</color>	
+    <color name="item_selected">#66777777</color>
     <color name="incall_dialpad_touch_tint">#4affffff</color>
     <color name="recent_call_log_item_phone_icon_tint">#ffffffff</color>
     <color name="quickcontact_default_photo_tint_color_dark">#ff212021</color>
@@ -70,14 +70,14 @@
     <color name="nofavorite_text_color">#ffffffff</color>
 	<color name="primary_text_color">#ffffffff</color>
     <color name="undo_dialogue_text_color">#ffffffff</color>
-	
+
     <color name="exposed_primary_text_light">#ffffffff</color>
     <color name="exposed_secondary_text_light">#ffaeaeae</color>
     <color name="exposed_secondary_text_dark">#ffaeaeae</color>
     <color name="exposed_call_log_voicemail_status_text">#ffaeaeae</color>
     <color name="exposed_dialpad_fragment">#00000000</color>
     <color name="exposed_call_log_voicemail_status_action_text">#ffffffff</color>
-	
+
     <color name="exposed_bg_dark">#ff000000</color>
     <color name="exposed_bg_light">#ff000000</color>
     <color name="exposed_secondary_bg_color">#ff000000</color>
